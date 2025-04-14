@@ -1,0 +1,22 @@
+* Articles not on the U.S.:  The focus is specifically on economic issues within the United States.
+* Racial or gender inequality: While important social issues, these topics are outside the scope of this coding project unless they intersect with broader economic trends (e.g., income disparities by race or gender).
+* Individuals whose names are part of a subject term: Articles solely focused on a single individual's biography or experiences are irrelevant unless that person's story exemplifies broader economic conditions.
+* Popular culture references: Mentions of movies, books, or other cultural works that include a subject term (e.g., "Big Business") are generally irrelevant.
+* Clearly personal affairs: Articles about an individual's unique circumstances (not reflecting broader trends) are irrelevant.
+* Noneconomic elites: Discussions of high status in fields like art, religion, or politics where economic standing is not a central theme are irrelevant.
+* Social class as a predictor of non-economic phenomena:  Articles focusing on how social class relates to health, education, drug use, social mobility, or other non-economic outcomes are generally irrelevant.
+
+Exceptions:
+* Some articles on the above topics may still be relevant if they also mention trends in economic inequality. For example, an article about a famous individual's financial struggles could be relevant if it discusses broader issues of wealth disparity.
+
+* Articles on policy 
+* Articles that do not mention national economic conditions.
+* Articles that do not mention changes in income/wage/earnings status or anything that falls under the inequality criteria.
+* Articles that are not about the U.S.
+* Articles on individuals or corporations that are not used as "examples" of something else related to releconomy, relchanges, or relinequality. Examples include:
+	+ Stories on famous individuals/families.
+	+ Criminal cases.
+	+ Corporate corruption cases.
+* Articles with a single mention of something that is relevant if the article is entirely on a different topic (e.g., conservatism as a subject keyword).
+* Articles that use "Labor" as a subject keyword in conjunction with something else, such as Labor Education or Labor Mobility, unless they are about job conditions and earnings of workers.
+

@@ -1,0 +1,15 @@
+- Inequality articles are those that explicitly mention economic inequality or gaps between different economic or social class groups.
+- They often include references to changes in economic groups, such as rising or falling pay, but this is not a requirement.
+- They must mention economic/social class groups, which are defined by financial status including wages, non-cash compensation, investment income, wealth and assets, and income from government or private sources.
+- The articles may refer to broad economic/social class groups, which are defined roughly as quintiles, quarters or thirds of the distribution, such as top, middle, bottom, or equivalents in terms of occupations or beneficiaries.
+- They may also refer to hierarchically related economic/social class groups, which are two or more broad groups that are in a hierarchical/vertical relation to each other.
+- The goal of these articles is to identify vertical groups being pitted against each other, usually in a zero-sum manner, rather than horizontal inequalities.
+- Any single mention of text that meets the criteria *for the inequality* category qualifies an article as within that category.
+- Inequality articles are those that discuss the relative differences in income, wealth, wages, compensation, benefits, etc. between two or more hierarchically ordered groups. This is coded as an article on inequality.
+- If an article mentions that tax cuts are proportionally greater for top than bottom or vice versa, affecting inequality, then it would be coded as an article on inequality.
+- Articles in which multiple groups are mentioned but not compared explicitly are *still to be coded as inequality*. 
+- Tax changes that signal regressive or progressive changes if the regressive or progressive nature of the change is not stated directly could be considered either explicit or implicit.
+- Articles that mention low skill and high skill workers, and even say that the low skilled are doing worse than the high skilled, are not explicit enough language to automatically categorize in the *inequality* category. The article must explicitly mention wages/compensation/benefits/etc with respect to these jobs, and there must be explicit language that one group is benefitting/losing more than the other(s).
+- If an article is mainly about unemployment or a growing or contracting economy but mentions earnings/income with respect to any group (even average American), then it should be coded as *not on inequality*.
+- Articles about the stock market are relevant in that they discuss income (unearned income) primarily of those at the top end of the distribution. These articles would most likely be coded as *not about inequality* but could also be *inequality* in some instances if other hierarchically related groups are mentioned along with their incomes/earnings/wealth/etc.
+- Articles that are overwhelmingly about the economy/jobs/growth and not wages/income or inequality are categorized as *not on inequality*.

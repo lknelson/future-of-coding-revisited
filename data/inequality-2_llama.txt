@@ -1,0 +1,27 @@
+Based on the provided document, here are the bullet points defining what constitutes an "inequality" article:
+
+**Inequality Articles:**
+
+* Mentions of income/earnings/wage/wealth inequality, gaps, differentials, dual society, divides between hierarchical groups
+* Explicit mentions of relational language and direction comparisons between hierarchical class groups, such as:
+	+ Rich/top/wealthy/affluent vs. middle/poor/everyone else
+	+ Wall Street vs. Main Street
+	+ Big business vs. unions/workers
+	+ High skill vs. low skill
+	+ High wage vs. low wage
+	+ High income vs. low income
+* Articles that mention hierarchical groups and income/wages/earnings/etc., but without direct comparison of groups or explicit relational language (Implicit Inequality)
+* Mentions of government policies or legislation that have direct redistributive consequences, such as:
+	+ Tax cuts or increases for specific groups
+	+ Cuts to social spending programs for bottom-end groups
+	+ Minimum wage laws
+	+ Unemployment benefits
+	+ Food stamps and welfare
+* Articles that discuss the distribution of profits to workers in the form of wages or benefits or other compensation
+
+**What does not constitute an "inequality" article:**
+
+* Articles not on national economic conditions, changes in income/wage/earnings status, or anything related to inequality criteria
+* Articles not on the U.S.
+* Articles on gender and racial inequality (unless they also mention income inequality)
+* Articles on individuals or corporations that are not used as "examples" of something else related to releconomy, relchanges, or relinequality (e.g., stories on famous individuals/families or a criminal case or a corporate corruption case)

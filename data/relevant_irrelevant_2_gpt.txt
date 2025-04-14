@@ -1,0 +1,7 @@
+- Irrelevant articles are those that do not pertain to the U.S. or discuss racial or gender inequality in the U.S.
+- Most articles on affirmative action are considered irrelevant.
+- Articles that discuss stories on famous individuals, criminal cases, or cases of corporate or union corruption that don't reflect broader conditions are deemed irrelevant.
+- If an article is entirely on a different topic but has a single mention of something relevant, it is still classified as irrelevant.
+- Articles that generally fall into this category were coded as irrelevant even if they had one mention of something that fell into one of the three other main categories (relinequality, relchanges, releconomy).
+- Articles that discuss conservative ideology because “conservatism” is a subject keyword are considered irrelevant.
+- Stories that do not have any reflection on broader conditions are also coded as irrelevant.

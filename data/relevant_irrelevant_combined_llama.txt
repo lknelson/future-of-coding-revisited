@@ -1,0 +1,20 @@
+Here are the bullet points for the definition of irrelevant articles:
+* Stories that are not about the U.S.
+* Articles on racial or gender inequality or gay rights in the U.S. (unless they also mention trends in economic inequality)
+* Individuals whose names are part of a subject term (e.g., Marc Rich)
+* References to popular culture that include part of a subject term (e.g., a movie named "Big Business")
+* Clearly personal affairs about a single individual that do not comment on broader conditions
+* Noneconomic elites (e.g., in art or religion or politics, where high economic status is neither implicit nor explicit)
+* Social class as a predictor of non-economic phenomenon (e.g., health, education, drug use, social mobility, conspicuous and other kinds of consumption)
+* Are about famous individuals or criminal cases or cases of corporate or union corruption that are treated as unique situations and do not have any reflection on broader conditions.
+* Do not mention trends in economic inequality, even if they discuss policy or political debates and particular politicians.
+* Articles that do not mention national economic conditions.
+* Articles that do not mention changes in income/wage/earnings status or anything that falls under the inequality criteria.
+* Articles not on the U.S. (i.e., articles about other countries).
+* Articles on individuals or corporations that are not used as "examples" of something else related to releconomy, relchanges, or relinequality, such as:
+	+ Stories on famous individuals/families.
+	+ Criminal cases.
+	+ Corporate corruption cases.
+* Articles with a single mention of something that is relevant if the article is entirely on a different topic (e.g., conservatism as a subject keyword).
+* Articles that use "Labor" as a subject keyword in conjunction with something else, such as Labor Education or Labor Mobility, unless they discuss job conditions and earnings of workers.
+

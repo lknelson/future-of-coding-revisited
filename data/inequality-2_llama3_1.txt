@@ -1,0 +1,30 @@
+Here are the bullet points summarizing the definition of inequality articles based on the provided document:
+
+**Definition of Inequality Articles:**
+
+* Mentions differences in wages/benefits/etc. between groups.
+* Policy affects one group more than another if all other conditions remained the same.
+* Social programs/government spending (aimed at certain groups) qualify as RelInequality because they are distributive by definition.
+
+**Explicit Comparison:**
+
+* Indicates whether or not groups are compared explicitly.
+* Three criteria:
+	+ Mentions hierarchical groups
+	+ Explicit comparison
+	+ About wages/income/etc.
+* Implication of a policy must be stated directly, not just a mention of a progressive/regressive tax.
+
+**Types of Inequality Articles:**
+
+* RelInequality (Rising/Falling/Positive/Negative)
+* RelChanges (Any mention of wages/benefits/etc. for groups, but doesn't compare them or mention gaps)
+* RelEconomy (Discusses economy, but not changes in wages or inequality)
+
+**Additional Notes:**
+
+* Taxes count if one group benefits disproportionately or if the rates for groups are given and differ.
+* Needs to mention wages, not just low skill vs. high skill.
+* Mentions of cuts to programs or tax changes counts as implicit if it doesn't say one group benefits/is hurt.
+
+Please let me know if you'd like me to clarify any of these points!

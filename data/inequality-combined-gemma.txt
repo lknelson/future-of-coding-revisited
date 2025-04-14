@@ -1,0 +1,21 @@
+Inequality articles are defined as:
+
+* Articles must mention distinct economic groups (e.g., rich vs. poor, working class vs. middle class). These groups can be explicitly named or implied through relational language.
+* The groups mentioned must have a clear vertical relationship (one group is "better off" than the other).
+* Articles directly state that one group is doing better/worse than another, often using comparative language (e.g., "the gap between rich and poor," "income inequality widening").
+* Articles mention policies or trends that disproportionately benefit certain groups without explicitly stating the inequality. For example:
+    * Tax cuts primarily benefiting the wealthy.
+    * Social program cuts impacting low-income individuals more severely.
+* Articles discussing changes in income, wages, benefits, or wealth for different economic groups are strong indicators of inequality.
+* Mentions of policies aimed at redistributing wealth (e.g., progressive taxation) or addressing social disparities often signal inequality concerns.
+* **Explicit Inequality:** Articles must meet ALL THREE criteria:
+    1. Mention **hierarchical groups**: Examples include rich/poor, top/bottom, high skill/low skill, Wall Street/Main Street.
+    2. Use **explicit relational language**:  Phrases like "benefits more," "loses the most," "gap between," or direct comparisons of income/earnings/wealth are needed.
+    3. Focus on **income/wages/compensation/wealth**: The comparison between groups must be about these economic factors.
+
+* **Implicit Inequality:** Articles mention hierarchical groups and income/wages/etc., but *lack explicit relational language*. Examples include:
+    * Factual statements about tax changes or wage bargaining affecting different income groups.
+    * Mentions of government spending programs for low-income populations.
+    * Discussions of taxes for specific groups without directly comparing their impact.
+* Inequality articles are those that focus on the differences in income, wages, earnings, or wealth between distinct social groups.
+* Explicit inequality is clearly stated, while implicit inequality is implied through the mention of relevant factors affecting different income groups.

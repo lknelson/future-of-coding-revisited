@@ -1,0 +1,18 @@
+Based on the provided document, here are the bullet points for the definition of irrelevant articles:
+
+**Irrelevant Articles:**
+
+* Stories that are not about the U.S.
+* Articles on racial or gender inequality or gay rights in the U.S. (unless they also mention trends in economic inequality)
+* Individuals whose names are part of a subject term (e.g., Marc Rich)
+* References to popular culture that include part of a subject term (e.g., a movie named "Big Business")
+* Clearly personal affairs about a single individual that do not comment on broader conditions
+* Noneconomic elites (e.g., in art or religion or politics, where high economic status is neither implicit nor explicit)
+* Social class as a predictor of non-economic phenomenon (e.g., health, education, drug use, social mobility, conspicuous and other kinds of consumption)
+
+Additionally, some articles may be considered irrelevant if they:
+
+* Are about famous individuals or criminal cases or cases of corporate or union corruption that are treated as unique situations and do not have any reflection on broader conditions.
+* Do not mention trends in economic inequality, even if they discuss policy or political debates and particular politicians.
+
+Note that these criteria can be overridden if the article also mentions trends in economic inequality or other relevant topics.

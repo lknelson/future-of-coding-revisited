@@ -1,0 +1,9 @@
+Here are the bullet points for the definition of "irrelevant" articles based on the provided document:
+
+• Articles that do not discuss national economic conditions, changes in wages, or income.
+• Articles that are not about the US.
+• Articles with only one mention of something that could categorize it as one of the other categories (e.g., RelChanges, RelInequality), but still classify as irrelevant because they don't have a significant focus on those topics.
+• Articles on individuals/businesses that are not representative of the whole.
+• Conservative ideology articles.
+
+These types of articles would be classified as "irrelevant" according to the provided document.

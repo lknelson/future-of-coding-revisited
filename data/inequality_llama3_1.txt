@@ -1,0 +1,54 @@
+Based on the provided document, here are the bullet points that define what constitutes an article about inequality:
+
+**Definition of Key Terms**
+
+* Economic/social class groups refer to individuals or groups differentiated by financial status.
+* Financial status includes:
+	+ Pay (wages, salary, bonuses)
+	+ Non-cash compensation and perks (health benefits, pension plans, training benefits)
+	+ Investment income (stocks, bonds)
+	+ Wealth and assets (home ownership, savings)
+	+ Income and non-cash transfers from the government (taxes, welfare, food stamps)
+	+ Income and non-cash transfers from private sources (child support)
+
+**Broad Economic/Social Class Groups**
+
+* Defined roughly as quintiles, quarters or thirds of the distribution:
+	+ Top, middle, bottom
+	+ Upper, middle, lower, bottom
+	+ Executives, managers, supervisors, workers, laborers, clerks
+* May also be defined by occupations, such as:
+	+ Unemployed, minimum wage workers, recipients of anti-poverty assistance
+
+**Hierarchically Related Economic/Social Class Groups**
+
+* Two or more broad groups that are in a hierarchical/vertical relation to each other:
+	+ Top and bottom, rich and poor, upper and middle
+	+ Employers and employees, managers and unions
+	+ High-wage workers and low-wage workers
+
+**Articles about Inequality**
+
+* Must mention economic/social class groups explicitly or implicitly.
+* May discuss changes in economic groups, but this is not required.
+* Examples of articles that qualify as being about inequality:
+	+ Discussions of policies that affect specific economic groups (e.g., tax cuts for the rich)
+	+ Articles that compare the economic circumstances of different groups (e.g., the wealthy vs. the poor)
+	+ Stories about government programs or policies that target specific economic groups (e.g., welfare reform)
+
+**Sub-Categories**
+
+* Rising: articles that mention inequality is rising or discuss policies that have the potential to increase inequality.
+* Falling: articles that mention inequality is falling or discuss policies with the potential to decrease inequality.
+* Positive: articles that present a positive perspective on changes in income, employment, or economic conditions.
+* Negative: articles that present a negative perspective on changes in income, employment, or economic conditions.
+
+**Other Categories**
+
+* Future/Prediction: articles that predict future trends or outcomes related to inequality.
+* Mentions poor/lower: articles that mention the poor or lower-income groups explicitly.
+* Mentions working class: articles that mention the working class or lower-middle-income groups explicitly.
+* Mentions middle class: articles that mention the middle class or average-income groups explicitly.
+* Mentions rich/affluent/upper: articles that mention the rich, affluent, or upper-income groups explicitly.
+
+Note that these categories are not mutually exclusive, and an article may be coded as belonging to multiple categories.

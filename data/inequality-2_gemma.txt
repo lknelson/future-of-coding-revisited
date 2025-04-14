@@ -1,0 +1,17 @@
+Here are the definitions of inequality articles, parsed from the provided text:
+
+* **Explicit Inequality:** Articles must meet ALL THREE criteria:
+    1. Mention **hierarchical groups**: Examples include rich/poor, top/bottom, high skill/low skill, Wall Street/Main Street.
+    2. Use **explicit relational language**:  Phrases like "benefits more," "loses the most," "gap between," or direct comparisons of income/earnings/wealth are needed.
+    3. Focus on **income/wages/compensation/wealth**: The comparison between groups must be about these economic factors.
+
+* **Implicit Inequality:** Articles mention hierarchical groups and income/wages/etc., but *lack explicit relational language*. Examples include:
+    * Factual statements about tax changes or wage bargaining affecting different income groups.
+    * Mentions of government spending programs for low-income populations.
+    * Discussions of taxes for specific groups without directly comparing their impact.
+
+**Key Points:**
+
+
+* Inequality articles are those that focus on the differences in income, wages, earnings, or wealth between distinct social groups.
+* Explicit inequality is clearly stated, while implicit inequality is implied through the mention of relevant factors affecting different income groups.

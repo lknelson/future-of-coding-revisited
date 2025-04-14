@@ -1,0 +1,14 @@
+- Articles that are not focused on the U.S.
+- Articles that discuss racial or gender inequality or gay rights in the U.S.
+- Articles where individuals' names are part of a subject term (e.g., Marc Rich).
+- References to popular culture that include part of a subject term (e.g., a movie named “Big Business”).
+- Personal affairs about a single individual that do not comment on broader conditions.
+- Articles about noneconomic elites (e.g., in art or religion or politics, in which high economic status is neither implicit nor explicit).
+- Social class as a predictor of non-economic phenomenon (e.g., health, education, drug use, social mobility, conspicuous and other kinds of consumption).
+- Articles that mainly discuss policy or political debates and particular politicians, but do not contain qualifying text on relevant to inquality, relevant to changes, or relevant to economy.
+- Most articles on affirmative action are considered irrelevant.
+- Articles that discuss stories on famous individuals, criminal cases, or cases of corporate or union corruption that don't reflect broader conditions are deemed irrelevant.
+- If an article is entirely on a different topic but has a single mention of something relevant, it is still classified as irrelevant.
+- Articles that generally fall into this category were coded as irrelevant even if they had one mention of something that fell into one of the three other main categories (relevant to inequality, relevant to changes, relevant to economy).
+- Articles that discuss conservative ideology because “conservatism” is a subject keyword are considered irrelevant.
+- Stories that do not have any reflection on broader conditions are also coded as irrelevant.

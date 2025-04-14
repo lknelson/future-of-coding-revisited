@@ -1,0 +1,13 @@
+* The article is not about the U.S.
+* The article is about racial or gender inequality or gay rights in the U.S., but does not mention economic inequality.
+* The article mentions popular culture that includes part of a subject term (e.g. a movie named "Big Business"), but does not discuss economic inequality.
+* The article discusses clearly personal affairs about a single individual that do not comment on broader conditions.
+* The article is about noneconomic elites (e.g. in art or religion or politics), and high economic status is neither implicit nor explicit.
+* The article uses social class as a predictor of non-economic phenomenon (e.g. health, education, drug use, social mobility, conspicuous and other kinds of consumption).
+* The article discusses famous individuals or criminal cases or cases of corporate or union corruption that are treated as unique situations and do not have any reflection on broader conditions.
+* Articles that do not discuss national economic conditions, changes in wages, or income.
+* Articles with only one mention of something that could categorize it as one of the other categories (e.g., RelChanges, RelInequality), but still classify as irrelevant because they don't have a significant focus on those topics.
+* Articles on individuals/businesses that are not representative of the whole.
+* Conservative ideology articles.
+
+Note that if an article mentions trends in economic inequality, income inequality, or has qualifying text on relinequality, relchanges, or releconomy, it will not be considered irrelevant.

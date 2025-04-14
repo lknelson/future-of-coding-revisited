@@ -1,0 +1,9 @@
+- Inequality articles are those that explicitly mention economic inequality or gaps between different economic or social class groups.
+- They often include references to changes in economic groups, such as rising or falling pay, but this is not a requirement.
+- They must mention economic/social class groups, which are defined by financial status including wages, non-cash compensation, investment income, wealth and assets, and income from government or private sources.
+- The articles may refer to broad economic/social class groups, which are defined roughly as quintiles, quarters or thirds of the distribution, such as top, middle, bottom, or equivalents in terms of occupations or beneficiaries.
+- They may also refer to hierarchically related economic/social class groups, which are two or more broad groups that are in a hierarchical/vertical relation to each other.
+- The goal of these articles is to identify vertical groups being pitted against each other, usually in a zero-sum manner, rather than horizontal inequalities.
+- Inequality articles can be categorized into four primary and mutually exclusive categories: irrelevant, relinequality (relevant on inequality), relchanges (relevant on pay/income/wealth/etc.), and releconomy (relevant on the economy).
+- The hierarchy or priority of categorization among relevant articles is: relinequality, relchanges, releconomy.
+- Any single mention of text that meets the criteria for a category qualifies an article as within that category.

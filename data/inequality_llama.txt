@@ -1,0 +1,46 @@
+Based on the provided document, here are the bullet points for defining inequality articles:
+
+**Relevant Categories:**
+
+* **Relinequality**: Articles that mention economic/social class groups in a hierarchical relation to each other, including:
+	+ Explicit mentions of inequality, gaps, differentials, dual society, or divides between hierarchically related economic groups
+	+ Mentions of one economic group doing better/worse than another group where the groups are in a hierarchical relation to each other
+	+ Government taxes and/or spending on social programs that are aimed at or targeted to specific economic groups
+	+ Employers, business profits, and/or business taxes along with mentions of other, lower economic/social class groups
+* **Relchanges**: Articles that mention pay/income/wealth/etc. regarding the population as a whole or a single broad group, including:
+	+ Mentions of income/wages/earnings/benefits/wealth/etc. for particular economic groups or the population as a whole
+	+ Changes in the pay of economic groups (e.g., rising or falling pay)
+* **Releconomy**: Articles that mention national employment/job/economic conditions with no mention of inequality or income/wages/earnings/benefits/wealth/etc. for particular economic groups, including:
+	+ General discussions of inflation, interest rates, prices, cost of living, spending, stock market, government deficit, employment/unemployment, recession, expansion, recovery, etc.
+
+**Sub-Categories:**
+
+* **Relinequality Sub-Categories:**
+	+ Rising: Articles that mention inequality has risen or is rising
+	+ Falling: Articles that mention inequality has fallen or is falling
+	+ Positive: Articles that mention positive changes in inequality
+	+ Negative: Articles that mention negative changes in inequality
+* **Relchanges Sub-Categories:**
+	+ Positive: Articles that mention positive changes in income/wages/earnings/benefits/wealth/etc.
+	+ Negative: Articles that mention negative changes in income/wages/earnings/benefits/wealth/etc.
+* **Releconomy Sub-Categories:**
+	+ Improving: Articles that mention improving economic conditions
+	+ Worsening: Articles that mention worsening economic conditions
+
+**Additional Categories:**
+
+* **Future/Prediction**: Articles that predict future changes in inequality or economic conditions
+* **Mentions Poor/Lower**: Articles that mention the poor or lower economic groups
+* **Mentions Working Class**: Articles that mention the working class
+* **Mentions Middle Class**: Articles that mention the middle class
+* **Mentions Rich/Affluent/Upper**: Articles that mention the rich, affluent, or upper economic groups
+* **CauseUnskilled/Educ.**: Articles that mention unskilled workers or lack of educated workforce as a cause of inequality or economic conditions
+* **CauseTax**: Articles that mention tax policy as a cause of inequality or economic conditions
+* **CauseImm**: Articles that mention immigration situation/policy as a cause of inequality or economic conditions
+* **CauseTech**: Articles that mention changes in technology as a cause of inequality or economic conditions
+* **CauseTrade/Outsourcing**: Articles that mention trade or outsourcing policy/practice as a cause of inequality or economic conditions
+* **CauseMinWage**: Articles that mention minimum wage status or changes as a cause of inequality or economic conditions
+* **CauseGovtReg**: Articles that mention government regulatory practices of corporations as a cause of inequality or economic conditions
+* **CauseCorp/Bus/Emp**: Articles that mention corporate, business, or employer practices as a cause of inequality or economic conditions
+
+Note: These bullet points are based on the provided document and may not be exhaustive.

@@ -1,0 +1,22 @@
+Here are the key definitions for identifying articles about inequality, based on your provided document:
+
+**Core Criteria:**
+
+* **Economic/Social Class Groups:** Articles must mention distinct economic groups (e.g., rich vs. poor, working class vs. middle class). These groups can be explicitly named or implied through relational language.
+* **Hierarchical Relationship:** The groups mentioned must have a clear vertical relationship (one group is "better off" than the other).
+
+**Types of Inequality Mentions:**
+
+* **Explicit Mentions:** Articles directly state that one group is doing better/worse than another, often using comparative language (e.g., "the gap between rich and poor," "income inequality widening").
+* **Implicit Mentions:**  Articles mention policies or trends that disproportionately benefit certain groups without explicitly stating the inequality. For example:
+
+    * Tax cuts primarily benefiting the wealthy.
+    * Social program cuts impacting low-income individuals more severely.
+
+**Additional Indicators:**
+
+* **Changes in Income/Wealth:** Articles discussing changes in income, wages, benefits, or wealth for different economic groups are strong indicators of inequality.
+* **Government Policies:** Mentions of policies aimed at redistributing wealth (e.g., progressive taxation) or addressing social disparities often signal inequality concerns.
+
+
+Let me know if you'd like me to elaborate on any specific aspect or provide examples!

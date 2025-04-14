@@ -1,0 +1,1254 @@
+,title,year,month,journal,code,weight,code_label,id,gen_code
+0,"$1,000 is chicken feed",1981,Jun,Newsweek,5,6.67,irrelevant,1,1
+1,$100 Billion Deficit Is Too Much,1982,Feb,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),2,1
+2,'85 outlook: year of change,1984,Dec,U.S. News & World Report,1,6.67,"relinequality, explicit",3,1
+3,'Blame the bombers--only',1995,May,Newsweek,5,6.67,irrelevant,4,1
+4,'Dear IRS . . . ',1991,Apr,Time,5,6.67,irrelevant,5,1
+5,'Hacktivists' Log On,2004,Aug,Newsweek,5,6.67,irrelevant,6,1
+6,'I am not here to cheer you up. The situation is about as serious and difficult as I've experienced in my career'.,2012,Jan,Newsweek,1,6.67,"relinequality, explicit",7,1
+7,'Mission Critical' Skills and Majors,2010,Nov,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),8,0
+8,'Moors out of here',2000,Feb,U.S. News & World Report,5,6.67,irrelevant,9,1
+9,'Take a deep breath',2002,Oct,U.S. News & World Report,5,6.67,irrelevant,10,1
+10,'This is the Selma of the deaf',1988,Mar,Time,5,6.67,irrelevant,11,1
+11,'Vindicated' -- Not Gloating,1987,Nov,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),12,1
+12,'We're under attack': online forum,2002,Apr,Newsweek,1,6.67,"relinequality, explicit",13,1
+13,"1,000 Points of Spite",1990,Oct,Time,1,10.0,"relinequality, explicit",14,1
+14,10 Questions for Andrew Stern,2005,Aug,Time,5,6.67,irrelevant,15,1
+15,10 Questions for William F. Buckley,2004,Apr,Time,5,6.67,irrelevant,16,1
+16,"11 million jobless, and worst is yet to come",1982,Oct,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",17,1
+17,1848 vs.2011.,2011,Mar,Time,5,6.67,irrelevant,18,1
+18,1981 tax cut for business?,1980,Jul,Newsweek,2,6.67,"relinequality, implicit",19,1
+19,1983: images,1983,Dec,Time,5,6.67,irrelevant,20,1
+20,1984 scrapbook,1984,Dec,Newsweek,5,6.67,irrelevant,21,0
+21,1992 tax guide,1992,Mar,U.S. News & World Report v. 112 (March 9 1992) p. 58-60+,1,6.67,"relinequality, explicit",22,1
+22,20 hot job tracks,1996,Oct,U.S. News & World Report,5,6.67,irrelevant,23,1
+23,2007 Career Guide,2007,Mar,U.S. News & World Report,2,10.0,"relinequality, implicit",24,1
+24,7 Reasons Not to Retire,2006,Jun,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),25,1
+25,7. Working may add Meaning to your later life,2006,Jun,U.S. News & World Report,5,6.67,irrelevant,26,1
+26,A Can-Do Nation,2007,Apr,Time,5,6.67,irrelevant,27,1
+27,A City Under the Ax,1981,Mar,Newsweek,1,10.0,"relinequality, explicit",28,1
+28,A Family Divided,2008,Oct,Time,5,6.67,irrelevant,29,1
+29,A Fever for Tax Cuts,1994,Sep,Time,3,10.0,relchanges (income/wages/earnings/etc.),30,1
+30,A Fondness for Gray Hair,2004,Mar,U.S. News & World Report,5,6.67,irrelevant,31,1
+31,A Fun-Free Recovery,2009,Jun,Time,3,6.67,relchanges (income/wages/earnings/etc.),32,1
+32,A Great August Tax Debate,1984,Aug,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),33,1
+33,A Juggernaut Slows Down,1982,Aug,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),34,1
+34,A Little Help for Some Friends,1990,Nov,Time,3,10.0,relchanges (income/wages/earnings/etc.),35,1
+35,A Little Icing on Top,1999,Apr,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),36,1
+36,A Make-Believe Budget Fix,1990,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),37,1
+37,A Midsummer-Night Tax Gift,1984,Jul,Newsweek,1,10.0,"relinequality, explicit",38,1
+38,A Million Reasons to Smile,2008,Apr,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),39,1
+39,A Modest Proposal - Public Policies that Perform,1987,Aug,U.S. News & World Report,2,10.0,"relinequality, implicit",40,1
+40,A Monster on the Loose,2005,Apr,Newsweek,5,6.67,irrelevant,41,1
+41,A Nazi-era bill finally comes due,1999,Feb,Newsweek,5,6.67,irrelevant,42,1
+42,A New French Revolution,2007,Dec,Newsweek,5,6.67,irrelevant,43,1
+43,A New GOP Achilles Heel,2007,Sep,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),44,1
+44,A No-fingerprints Tax Bill,1982,Aug,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),45,1
+45,A Pain in the bottom line,2000,Nov,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",46,1
+46,A Political Prescription,2004,Feb,U.S. News & World Report,5,10.0,irrelevant,47,1
+47,A Religious-Right Revival,2008,Sep,Newsweek,5,6.67,irrelevant,48,1
+48,A Resilient Society.,2011,Jan,Newsweek,4,6.67,"releconomy (employment, economy)",49,1
+49,A Reward for Good Behavior,2007,Oct,Newsweek,5,10.0,irrelevant,50,1
+50,A Script for Sputnik,2011,Jan,Newsweek,2,6.67,"relinequality, implicit",51,1
+51,A Sense of Power,1980,Dec,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),52,1
+52,A Sequel to the Subprime Mess?,2007,Dec,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),53,1
+53,A Simpler Social Security Fix,2010,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",54,1
+54,A Swoosh under siege,1999,Apr,U.S. News & World Report,5,6.67,irrelevant,55,1
+55,A Tax Band-Aid For J&J's Big Deal,2006,Aug,Newsweek,5,6.67,irrelevant,56,1
+56,A Tax Increase You Can Avoid,1993,Jul,Time,3,10.0,relchanges (income/wages/earnings/etc.),57,1
+57,A Tricker Tax Season,2007,Mar,U.S. News & World Report,5,6.67,irrelevant,58,1
+58,A U.N. 'plot' on U.S. rivers,1997,Oct,U.S. News & World Report,5,6.67,irrelevant,59,1
+59,A Vigorous Voice from The Right--at Berkeley!,2003,Feb,Time,5,6.67,irrelevant,60,1
+60,A Voter's Gulde to the Economy,2008,Mar,Time,2,6.67,"relinequality, implicit",61,1
+61,A battle over the cross,1984,Mar,Newsweek,5,6.67,irrelevant,62,1
+62,A bologna-lover's retirement budget,2000,Jun,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),63,1
+63,"A building, a tragedy",1995,Feb,U.S. News & World Report,5,10.0,irrelevant,64,0
+64,A business boom defies its doubters,1984,Apr,Newsweek,2,6.67,"relinequality, implicit",65,1
+65,A buying surge from new 30-billion tax cut,1983,Jun,U.S. News & World Report,1,6.67,"relinequality, explicit",66,1
+66,A campus divided by three words,1995,Feb,Newsweek,5,6.67,irrelevant,67,1
+67,A chasm of misery,1989,Nov,Time,5,6.67,irrelevant,68,1
+68,A closer look at the Treasury's tax plan,1984,Dec,U.S. News & World Report,2,6.67,"relinequality, implicit",69,1
+69,A deficit plan that's no joke,1992,Oct,Newsweek,2,10.0,"relinequality, implicit",70,1
+70,A different kind of supply-side revolution,1990,Feb,U.S. News & World Report,2,6.67,"relinequality, implicit",71,1
+71,A dip in urban joblessness,1983,Aug,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",72,1
+72,A distant thunder on the right: conservatives regroup in the age of glasnost,1989,Dec,Newsweek,5,6.67,irrelevant,73,1
+73,A double-dip this summer?,2002,Jul,U.S. News & World Report,2,6.67,"relinequality, implicit",74,1
+74,A double-edged summer surprise,1992,Mar,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),75,1
+75,A fair question,2000,Sep,U.S. News & World Report,1,6.67,"relinequality, explicit",76,1
+76,A fight for the soul of the party,1992,Aug,U.S. News & World Report v. 113 (August 31-September 7 1992) p. 58,5,6.67,irrelevant,77,1
+77,A gaggle of New Year's guesses,1987,Dec,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",78,1
+78,A healthy trend ends,1998,Sep,U.S. News & World Report,5,6.67,irrelevant,79,1
+79,A kind word for taxes,1986,Jul,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),80,1
+80,A leap of faith--into the abyss perhaps?,2001,Jun,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),81,1
+81,A message to conservatives,1983,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",82,1
+82,A most debated issue,1985,Jul,Time,1,6.67,"relinequality, explicit",83,1
+83,A nation divided,1999,Oct,U.S. News & World Report,1,1.0,"relinequality, explicit",84,1
+84,A new breed of activism,1985,May,Newsweek,5,6.67,irrelevant,85,1
+85,A new divide between haves and have-nots?,1995,Spring,Time,1,6.67,"relinequality, explicit",86,1
+86,A new-style recession,2002,Apr,U.S. News & World Report v. 132 no. 12 (April 15 2002) p. 30-2,1,6.67,"relinequality, explicit",87,1
+87,A pardon overheard,2001,Aug,Newsweek,5,6.67,irrelevant,88,1
+88,A paycheck revolt in '96?,1996,Feb,Newsweek,1,1.0,"relinequality, explicit",89,1
+89,A plumper nest egg,2002,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),90,1
+90,A president and a pardon. A price?,2001,Feb,U.S. News & World Report,5,6.67,irrelevant,91,1
+91,A question of confidence,2001,May,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),92,1
+92,A radical plan for tax reform,1986,May,Newsweek,1,6.67,"relinequality, explicit",93,1
+93,A regime on the ropes,1988,Sep,Time,5,6.67,irrelevant,94,1
+94,A righteous indignation,1998,May,U.S. News & World Report,5,6.67,irrelevant,95,1
+95,A stirring in the streets,1997,Jan,Newsweek,5,6.67,irrelevant,96,1
+96,A surprising jog to the right,2003,Nov,U.S. News & World Report,5,6.67,irrelevant,97,1
+97,A swampful of troubles,1983,Apr,U.S. News & World Report,2,6.67,"relinequality, implicit",98,1
+98,A tale of two Austins,2000,Feb,U.S. News & World Report,1,1.0,"relinequality, explicit",99,1
+99,A taxing change,2000,Jul,Time,1,6.67,"relinequality, explicit",100,1
+100,A time to celebrate,2000,Jul,U.S. News & World Report,1,6.67,"relinequality, explicit",101,1
+101,A triumph of moral force,1983,Oct,Time,5,6.67,irrelevant,102,1
+102,A worker's tale,1987,May,Time,5,6.67,irrelevant,103,1
+103,ADRIENNE RICH.,2012,Dec,Time,5,6.67,irrelevant,104,1
+104,AMERICA THE ANXIOUS.,2012,Aug,Newsweek,1,6.67,"relinequality, explicit",105,1
+105,Abolish the IRS? Dream on,1997,Oct,Newsweek,1,6.67,"relinequality, explicit",106,1
+106,About Those Categories . . .,2006,Jan,Newsweek,5,6.67,irrelevant,107,1
+107,Adventures in equities/World of Business,1992,Feb,Time,4,10.0,"releconomy (employment, economy)",108,1
+108,Affirmative Inaction?,1995,Jun,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),109,1
+109,"After Sununu, the challenge on the right",1991,Dec,Newsweek,5,6.67,irrelevant,110,1
+110,After You! We Insist!,1990,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),111,1
+111,After the Plant Closed Down,2009,May,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),112,1
+112,After the meltdown of '87,1987,Nov,Newsweek,2,6.67,"relinequality, implicit",113,1
+113,After the storm passes,1999,Dec,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),114,1
+114,Aftershocks of the me decade,1981,Aug,Time,5,6.67,irrelevant,115,1
+115,Ahead for Heating Oil Users: a Record-Shattering Winter,2008,Jan,U.S. News & World Report,5,6.67,irrelevant,116,1
+116,All in the family,1996,Dec,Newsweek,5,6.67,irrelevant,117,1
+117,All the news that's fit to suppress,1982,Oct,Newsweek,5,6.67,irrelevant,118,1
+118,America the open,1995,Jul,Newsweek,1,1.0,"relinequality, explicit",119,1
+119,America's Bull Run: Can We Keep It Going?,2008,Jan,U.S. News & World Report,1,6.67,"relinequality, explicit",120,1
+120,America's Dumbest Budget Cut.,2011,Jul,Newsweek,4,6.67,"releconomy (employment, economy)",121,1
+121,America's Next Stimulus Plan,2009,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",122,1
+122,America's scandalous health care: here's how to fix it,1990,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",123,1
+123,America--at ease with computers,1986,Feb,U.S. News & World Report v. 100 (February 17 1986) p. 72,4,6.67,"releconomy (employment, economy)",124,1
+124,Americans Bet on International Funds,1985,Aug,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),125,1
+125,Americans marry too much,2009,Aug,Newsweek,5,6.67,irrelevant,126,1
+126,Among Friends,1983,Aug,Time,5,10.0,irrelevant,127,1
+127,Among the believers,1999,Jul,Newsweek,5,6.67,irrelevant,128,1
+128,An Economic Feud at the White House,1983,Oct,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),129,1
+129,An Election-Year Tax Increase?,1982,Jul,Time,3,10.0,relchanges (income/wages/earnings/etc.),130,1
+130,An Immigration Brawl,2006,Apr,U.S. News & World Report,5,6.67,irrelevant,131,1
+131,An Implausible Populist.,2011,Oct,Time,2,6.67,"relinequality, implicit",132,1
+132,An Oil Tax Makes Sense,1987,Apr,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),133,1
+133,An agenda bedeviled by the deficit,1993,Feb,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),134,1
+134,An early Christmas at Chrysler,1985,Nov,Time,2,6.67,"relinequality, implicit",135,1
+135,An early labor endorsement,1983,Aug,Newsweek,5,6.67,irrelevant,136,1
+136,"And Now, the Spoils Society",1985,Dec,Newsweek,1,10.0,"relinequality, explicit",137,1
+137,"And now, a domestic summit",1985,Dec,Newsweek,2,6.67,"relinequality, implicit",138,1
+138,Anguish of the jobless,1982,Jan,Time,2,6.67,"relinequality, implicit",139,1
+139,Another victory for Solidarity,1980,Nov,Time,5,6.67,irrelevant,140,1
+140,Anybody recognize this place?,2001,May,Time,5,6.67,irrelevant,141,1
+141,Are We Broke Yet?,2009,Sep,Time,4,6.67,"releconomy (employment, economy)",142,1
+142,Are raises bad for America?,1999,Aug,U.S. News & World Report,2,6.67,"relinequality, implicit",143,1
+143,Armenia,1988,Nov,Time,5,6.67,irrelevant,144,1
+144,Armenians: 'We are not slaves of Moscow',1988,Mar,Newsweek,5,6.67,irrelevant,145,1
+145,As for investments ,1986,May,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),146,1
+146,As inevitable as death and taxes,1983,May,U.S. News & World Report,5,6.67,irrelevant,147,1
+147,"As unemployment rises, so do benefit frauds",1982,May,U.S. News & World Report v. 92 (May 31 1982) p. 72-3,2,6.67,"relinequality, implicit",148,1
+148,Asian Wisdom,2010,Dec,Newsweek,4,6.67,"releconomy (employment, economy)",149,1
+149,At last: prices go into reverse,1982,May,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",150,1
+150,Attack!The Truth About Obamacare,2009,Aug,Newsweek,4,6.67,"releconomy (employment, economy)",151,1
+151,Avoid 'climate' control,1998,Nov,U.S. News & World Report,5,6.67,irrelevant,152,1
+152,Avoiding a Deep Recession,2008,Oct,U.S. News & World Report v. 145 no. 9 (October 27 2008) p. 92,3,6.67,relchanges (income/wages/earnings/etc.),153,1
+153,Baby boomers come of age,1981,Mar,Newsweek,1,6.67,"relinequality, explicit",154,1
+154,Baby-boom generation runs into reality,1981,Sep,U.S. News & World Report,5,6.67,irrelevant,155,1
+155,Back in the 'Hood Again,2004,May,U.S. News & World Report,5,10.0,irrelevant,156,1
+156,Back into the tax maze,1997,Aug,Time,1,10.0,"relinequality, explicit",157,1
+157,Back on the beat,2002,Apr,U.S. News & World Report,5,6.67,irrelevant,158,1
+158,Back to business,2001,Dec,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),159,1
+159,Bad tidings for big labor,1981,Jan,Newsweek,2,6.67,"relinequality, implicit",160,1
+160,Baiting the Soviet bear,1981,Sep,Time,5,6.67,irrelevant,161,1
+161,Balancing the Budget - Congress Has Its Own Ideas,1980,Mar,U.S. News & World Report,2,10.0,"relinequality, implicit",162,1
+162,Bankruptcy as an escape hatch,1984,Mar,Time,2,6.67,"relinequality, implicit",163,1
+163,Basra Breakdown,2006,May,Newsweek,5,10.0,irrelevant,164,1
+164,Battleground Chicago,1995,Apr,Newsweek,5,10.0,irrelevant,165,1
+165,Be our guest,2001,May,U.S. News & World Report,1,6.67,"relinequality, explicit",166,1
+166,Bearer of Bad Tidings,1983,Sep,Time,3,10.0,relchanges (income/wages/earnings/etc.),167,1
+167,Beaucoup bucks,2002,Feb,U.S. News & World Report,5,6.67,irrelevant,168,1
+168,Before the party starts,2001,Feb,U.S. News & World Report,1,6.67,"relinequality, explicit",169,1
+169,"Behind Gains in On-the-Job Health, Safety",1984,Jun,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",170,1
+170,Bell's departure stirs up the right,1984,Nov,U.S. News & World Report,5,6.67,irrelevant,171,1
+171,Bentsen on the burner,1993,Jun,Time,2,6.67,"relinequality, implicit",172,1
+172,Best Careers,2008,Mar,U.S. News & World Report,2,10.0,"relinequality, implicit",173,0
+173,Best of the decade,1990,Jan,Time,5,6.67,irrelevant,174,1
+174,Bias Or Safety?,1989,Oct,Time,5,10.0,irrelevant,175,1
+175,Bidding War for Tax Votes,1981,Aug,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),176,1
+176,Big Brown's union blues: the UPS strike reflects wide worry about part-time jobs,1997,Aug,Newsweek,1,6.67,"relinequality, explicit",177,1
+177,Big Business Pulls Out,1986,Nov,Newsweek,5,10.0,irrelevant,178,1
+178,"Big Families can be happy, too",1985,Jan,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),179,1
+179,Big Government to the Rescue,2008,Sep,Newsweek v. 152 no. 13 (September 29 2008) p. 22-3,3,6.67,relchanges (income/wages/earnings/etc.),180,1
+180,Big Guys Win Again. This Is Tax Reform?,2005,Nov,Newsweek,1,1.0,"relinequality, explicit",181,1
+181,Big Worker Blues,2004,Feb,U.S. News & World Report,2,6.67,"relinequality, implicit",182,1
+182,Big mouths,1993,Nov,Time,5,6.67,irrelevant,183,1
+183,"Big promises, big problems",2003,Mar,U.S. News & World Report,5,6.67,irrelevant,184,1
+184,Biz blahs and blame,2001,Oct,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",185,1
+185,Black conservatives will find an audience,1994,Dec,U.S. News & World Report,5,6.67,irrelevant,186,1
+186,Blame the deficit on excessive government spending,1991,Aug,U.S. News & World Report,2,6.67,"relinequality, implicit",187,1
+187,Blessed Is the Full Plate,2007,Nov,Newsweek,1,6.67,"relinequality, explicit",188,1
+188,Blowing off some steam,1988,May,Time,1,6.67,"relinequality, explicit",189,1
+189,Blowup,1983,Apr,Time,5,6.67,irrelevant,190,0
+190,"Blue Truth, Red Truth",2004,Sep,Time,5,6.67,irrelevant,191,1
+191,Bob Dole's old growth theory,1996,Sep,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),192,1
+192,Bob Reich's job market,1994,Mar,Newsweek,1,6.67,"relinequality, explicit",193,1
+193,Bogus Shelters for the Stars,1985,May,Time,5,10.0,irrelevant,194,1
+194,Boiling Tea,2010,Nov,Time,3,6.67,relchanges (income/wages/earnings/etc.),195,1
+195,Bombarding Reagan's Budget,1984,Feb,Time,3,10.0,relchanges (income/wages/earnings/etc.),196,1
+196,Borderline War,2003,Sep,U.S. News & World Report,5,10.0,irrelevant,197,1
+197,"Bound, gagged and at debt's door",1996,Jan,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",198,1
+198,Bowling together,1996,Jul,Time,5,6.67,irrelevant,199,1
+199,Boys of summer return,1981,Aug,Time,5,6.67,irrelevant,200,1
+200,Brave new economy,1986,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",201,1
+201,Breakdown: How the Budget talks fell apart,1996,Jan,Time,1,10.0,"relinequality, explicit",202,1
+202,Breaking through: Clinton pushes his economic plan through the House and gains a chance to reshape the Supreme Court,1993,Mar,Time,5,6.67,irrelevant,203,1
+203,Bridging the bitter incomes divide,1994,May,U.S. News & World Report,1,1.0,"relinequality, explicit",204,1
+204,Bridging the costly skills gap,1993,Jan,U.S. News & World Report v. 114 (January 25 1993) p. 61-3,1,6.67,"relinequality, explicit",205,1
+205,Bridging the digital divide,1999,Sep,Newsweek,1,1.0,"relinequality, explicit",206,1
+206,Briefing.,2012,Dec,Time,4,6.67,"releconomy (employment, economy)",207,0
+207,Briefing: Sports,2012,Oct,Time,5,6.67,irrelevant,208,1
+208,Brown's new fad: a flat tax,1992,Apr,U.S. News & World Report,1,6.67,"relinequality, explicit",209,1
+209,Bubble trouble?,1998,May,Newsweek,1,6.67,"relinequality, explicit",210,1
+210,Budget Deal,1983,Jul,Time,1,10.0,"relinequality, explicit",211,1
+211,Budget-Limit Bandwagon Picks Up Speed,1982,Aug,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),212,1
+212,Bull market in personal secrets,1980,Jul,Time,5,6.67,irrelevant,213,1
+213,Bush Plays Budget Chicken,1989,Jan,Newsweek,1,10.0,"relinequality, explicit",214,1
+214,Bush marching to is own beat,1989,Feb,U.S. News & World Report,2,10.0,"relinequality, implicit",215,1
+215,Bush's Capital Gains Obsession,1990,Oct,Newsweek,1,10.0,"relinequality, explicit",216,1
+216,Bush's Jobs Albatross,2004,Sep,Newsweek,1,6.67,"relinequality, explicit",217,1
+217,Bush's Mr. Wrong,2004,May,Newsweek,5,10.0,irrelevant,218,1
+218,Bush's News War,2003,Oct,Newsweek,5,10.0,irrelevant,219,1
+219,Bush's Spanish Lessons,2006,May,Newsweek,5,6.67,irrelevant,220,1
+220,Bush's Supreme Challenge,2003,May,Time,5,6.67,irrelevant,221,1
+221,Bush's Tax Surprise,2003,Jan,Time,1,6.67,"relinequality, explicit",222,1
+222,Business is booming for union busters,1983,May,U.S. News & World Report,1,6.67,"relinequality, explicit",223,1
+223,Buying into a recovery,2001,Dec,Time,3,6.67,relchanges (income/wages/earnings/etc.),224,1
+224,"Bye, bye old American pie",1995,Dec,U.S. News & World Report,1,10.0,"relinequality, explicit",225,1
+225,CEOs sound the warning,2001,Aug,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),226,1
+226,"CEOs: No Pain, Just Gain/Business",1991,Apr,Time,1,10.0,"relinequality, explicit",227,1
+227,COLD WARRIOR.,2012,Mar,Time,5,6.67,irrelevant,228,1
+228,CORY BOOKER SCHOOLS AMERICA.,2011,Sep,Newsweek,4,6.67,"releconomy (employment, economy)",229,1
+229,Call Me Mr. Sunshine,2009,Mar,Time,3,6.67,relchanges (income/wages/earnings/etc.),230,1
+230,Call it the flaky tax,1996,Jan,Newsweek,1,6.67,"relinequality, explicit",231,1
+231,Call off the war on gays,1998,Aug,U.S. News & World Report,5,6.67,irrelevant,232,1
+232,Campaign '80: jobs,1980,Sep,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),233,1
+233,Can He Step Up His Game?,2011,Sep,Time,4,6.67,"releconomy (employment, economy)",234,1
+234,Can He Win By Losing?,2010,Dec,Time,2,6.67,"relinequality, implicit",235,1
+235,Can Reagan Keep Control?,1983,Feb,U.S. News & World Report,2,10.0,"relinequality, implicit",236,1
+236,Can anybody here play this game?,2001,Jul,Newsweek,4,6.67,"releconomy (employment, economy)",237,1
+237,Can anyone spare a job?,1993,Jun,Newsweek,2,6.67,"relinequality, implicit",238,1
+238,Can anyone turn tide on inflation?,1981,Jan,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),239,1
+239,Can the Fed avert a costly shipwreck?,2000,May,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),240,1
+240,Candidate for the Status Quo,2000,Aug,Newsweek,1,10.0,"relinequality, explicit",241,1
+241,Capital flight from America?,2000,Oct,Newsweek,4,6.67,"releconomy (employment, economy)",242,1
+242,Capitol gridlock,1991,Dec,Newsweek,1,6.67,"relinequality, explicit",243,1
+243,Careers to count on,2002,Feb,U.S. News & World Report,2,6.67,"relinequality, implicit",244,1
+244,Cash and Kerry,2004,Feb,Newsweek,5,6.67,irrelevant,245,1
+245,Cat purrs,1983,May,Time,2,6.67,"relinequality, implicit",246,1
+246,Center Court,2003,Jul,Newsweek,5,6.67,irrelevant,247,1
+247,Challenges that Reagan faces now,1982,Nov,U.S. News & World Report,2,6.67,"relinequality, implicit",248,1
+248,Changes to Expect in Your Social Security,1981,May,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),249,1
+249,Changind Sides,1984,Mar,Time,5,10.0,irrelevant,250,1
+250,Changing America's Energy Ways,2009,Apr,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",251,1
+251,Changing profile of the U.S. labor force,1985,Sep,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),252,1
+252,Chaos in Taxachusetts,1980,Dec,Newsweek,1,10.0,"relinequality, explicit",253,1
+253,Cheering the Nice Capades,1996,Jul,Newsweek,5,6.67,irrelevant,254,1
+254,Circles of Hatred,2003,Mar,Newsweek,5,10.0,irrelevant,255,1
+255,Clarification,2006,Dec,Newsweek,5,6.67,irrelevant,256,0
+256,Class Act,1997,Feb,Time,1,10.0,"relinequality, explicit",257,1
+257,Clean-Up Time,1999,Mar,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),258,1
+258,Cliff Hanger.,2012,Dec,Time,2,6.67,"relinequality, implicit",259,1
+259,Clinton signals labor he will be a friend,1993,Feb,Time,5,6.67,irrelevant,260,1
+260,Clinton's high-tech high-wire act,1993,Mar,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),261,1
+261,Clinton-inspired tax tactics,1992,Dec,U.S. News & World Report,1,6.67,"relinequality, explicit",262,1
+262,"Clip, clip here, clip, clip there",1993,Feb,Time,2,6.67,"relinequality, implicit",263,1
+263,Closing the gap with the West,1980,Jun,Time,5,6.67,irrelevant,264,1
+264,Coming Along Just Fine,1985,Apr,Time,3,10.0,relchanges (income/wages/earnings/etc.),265,1
+265,Coming Out Party,2003,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),266,1
+266,Computer revolution,1984,Mar,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),267,1
+267,Congress Flunks Out On Deficit,1986,Nov,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",268,1
+268,Conservatism with a human face,1988,Sep,U.S. News & World Report,5,6.67,irrelevant,269,1
+269,"Conservatism, McCain style",2000,Mar,Newsweek,1,6.67,"relinequality, explicit",270,1
+270,Conservatism: Not TBTF,2008,Jul,Newsweek,2,6.67,"relinequality, implicit",271,1
+271,Conspiracy Of Two.,2011,Jul,Time,2,6.67,"relinequality, implicit",272,1
+272,Corporate Kleptocracy,2004,Sep,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),273,1
+273,Correcting His Posture,1995,Nov,Time,4,10.0,"releconomy (employment, economy)",274,1
+274,Correction,2006,Jun,U.S. News & World Report,5,6.67,irrelevant,275,0
+275,Correction,2007,May,U.S. News & World Report,5,6.67,irrelevant,276,0
+276,Corruption of the jean pool,1999,Mar,Time,5,6.67,irrelevant,277,1
+277,Cost-shopping for care,1992,Jul,U.S. News & World Report,5,6.67,irrelevant,278,1
+278,Costly present,1982,Jun,Time,5,6.67,irrelevant,279,1
+279,"Could You Just Leave Us Alone, Please? (cover story)",2012,Feb,Time,2,6.67,"relinequality, implicit",280,1
+280,Crackdown,1985,Nov,Time,5,6.67,irrelevant,281,1
+281,Cracks in the Economy,2007,Sep,Time,3,6.67,relchanges (income/wages/earnings/etc.),282,1
+282,Credit crunch is on,1980,Mar,Newsweek,2,6.67,"relinequality, implicit",283,1
+283,Credits for college,2002,Apr,U.S. News & World Report,5,6.67,irrelevant,284,1
+284,Crime and punishment,1982,Aug,U.S. News & World Report,5,6.67,irrelevant,285,1
+285,Crumbs for the majority,1996,Feb,U.S. News & World Report,1,1.0,"relinequality, explicit",286,1
+286,Crying Over Spilt Milk,2008,May,Newsweek,4,6.67,"releconomy (employment, economy)",287,1
+287,Cuomo vs. Bush: the blame game,1991,Dec,U.S. News & World Report,1,6.67,"relinequality, explicit",288,1
+288,Cutting bitter lives short,1992,Jul,U.S. News & World Report,5,6.67,irrelevant,290,1
+289,Cutting unemployment: what experts would do,1983,Sep,U.S. News & World Report,2,6.67,"relinequality, implicit",291,1
+290,Cyber toy story,1997,Aug,Newsweek,5,6.67,irrelevant,292,1
+291,Dangerously dependent,2004,Feb,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),293,1
+292,Day of the Dead.,2011,Jul,Time,5,6.67,irrelevant,294,1
+293,Dealing with a bad hand?,1994,Oct,U.S. News & World Report,5,10.0,irrelevant,295,1
+294,Debunking the digital divide,2002,Mar,Newsweek,1,1.0,"relinequality, explicit",296,1
+295,Deflation Nation,2010,Jul,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),297,1
+296,Demographics Demand Change,2010,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),298,1
+297,Deng Strikes Back,1989,Jun,Newsweek,5,10.0,irrelevant,299,1
+298,Dereliction of duty,2004,Jun,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",300,1
+299,Despair and Death In a Beijing Square,1989,Jun,Time,5,10.0,irrelevant,301,1
+300,Detroit molds a contract,1984,Oct,Newsweek,2,6.67,"relinequality, implicit",302,1
+301,"Dick Gephardt, unilateralist",2001,Sep,Newsweek,5,6.67,irrelevant,303,1
+302,Did the Military Ignore Warnings?,2004,Nov,Newsweek,5,10.0,irrelevant,304,1
+303,Dip in jobless passes milestone,1983,Aug,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",305,1
+304,Diversity Is Essential . . .,2003,Jan,Newsweek,5,6.67,irrelevant,306,1
+305,Divided We Eat,2010,Nov,Newsweek,1,1.0,"relinequality, explicit",307,1
+306,Divided we fail,1989,Jun,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),308,1
+307,Divisions in the ranks,1983,Aug,Newsweek,5,6.67,irrelevant,309,1
+308,Divorce: From Bad To Worse,2003,Jul,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),310,1
+309,Do price boosts signal surge in inflation?,1983,Sep,U.S. News & World Report,2,6.67,"relinequality, implicit",311,1
+310,Do they mean what they say?,2000,Aug,Time,1,6.67,"relinequality, explicit",312,1
+311,Doctors' cure,1992,Sep,Time,5,6.67,irrelevant,313,1
+312,Don't Hold Your Breath.,2011,Jun,Time,1,6.67,"relinequality, explicit",314,1
+313,Don't blow the surplus,2000,Sep,U.S. News & World Report,1,6.67,"relinequality, explicit",315,1
+314,Don't get hit by taxes,1998,Nov,Newsweek v. 132 no. 22 (November 30 1998) p. 86+,3,6.67,relchanges (income/wages/earnings/etc.),316,1
+315,Don't steal this column!,1997,Mar,U.S. News & World Report,5,6.67,irrelevant,317,1
+316,Don't tread on my data: protecting individual privacy in the information age,1987,Jul,Time,5,6.67,irrelevant,318,1
+317,Double-Dipping into the Past,2010,Aug,Time,3,6.67,relchanges (income/wages/earnings/etc.),319,1
+318,Doubts about data,1992,Dec,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),320,1
+319,Down with dictatorship',1987,Jun,Time,5,6.67,irrelevant,321,0
+320,Down-sizing for growth,1996,Mar,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),322,1
+321,Drawing Down Iraq,2005,Aug,Newsweek,5,10.0,irrelevant,323,1
+322,"Dreaming a Dream in Red, White, and Blue",2006,Apr,U.S. News & World Report,5,6.67,irrelevant,324,0
+323,"Dreams, myths and reality",1988,Jul,U.S. News & World Report,1,1.0,"relinequality, explicit",325,1
+324,Drowning in data,1997,Apr,Newsweek,5,6.67,irrelevant,326,1
+325,Dubya's dance with the right,2000,Mar,Time,5,6.67,irrelevant,327,1
+326,EXTREME COUPONING.,2011,Oct,Time,4,6.67,"releconomy (employment, economy)",328,1
+327,Easing pains,1983,May,Time,5,6.67,irrelevant,329,1
+328,Easing the sting,2003,Jan,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),330,1
+329,Easy reading at tax time,1994,Mar,Newsweek,5,6.67,irrelevant,331,0
+330,"Eating humble pie, making lots of bread",1992,Apr,U.S. News & World Report,1,10.0,"relinequality, explicit",332,1
+331,Economic Sanctions Against South Africa,1985,Feb,U.S. News & World Report,5,10.0,irrelevant,333,0
+332,Election impact on business,1980,Nov,U.S. News & World Report,2,6.67,"relinequality, implicit",334,1
+333,Eliminating inflation won't help the economy,1991,Aug,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),335,1
+334,Embracing the Unloved,2008,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",336,1
+335,Endgame for Affirmative Action,1995,Mar,U.S. News & World Report,5,10.0,irrelevant,337,1
+336,Energy to Burn,2007,Mar,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",338,1
+337,Enjoy the Climb,2003,Apr,Time,3,10.0,relchanges (income/wages/earnings/etc.),339,1
+338,Enron and fuzzy math,2002,Feb,Newsweek,2,10.0,"relinequality, implicit",340,1
+339,Entitlement Myths,2009,Feb,Time,3,6.67,relchanges (income/wages/earnings/etc.),341,1
+340,Estate-tax changes,1981,Aug,U.S. News & World Report,5,6.67,irrelevant,342,1
+341,Europe Vs. Reaganomics,1982,Mar,Newsweek,4,10.0,"releconomy (employment, economy)",343,1
+342,European labor in retreat,1985,Mar,Time,5,6.67,irrelevant,344,1
+343,Exile on mail street,2000,Oct,Time,1,1.0,"relinequality, explicit",345,1
+344,Exit Bill Clinton with one last mess,2001,Feb,U.S. News & World Report,5,6.67,irrelevant,346,1
+345,Facebook Won't Save Us.,2012,Aug,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),347,1
+346,Facing Red Ink in the States,2008,Feb,U.S. News & World Report,2,6.67,"relinequality, implicit",348,1
+347,Fairness Demands Secret Votes,2009,Mar,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),349,1
+348,Fairness for the middle class,1985,Jun,U.S. News & World Report,1,6.67,"relinequality, explicit",350,1
+349,Faith in the System,2010,Jun,Time,5,6.67,irrelevant,351,1
+350,Families Ask Why,2003,Aug,Newsweek,5,10.0,irrelevant,352,1
+351,Family planning,1987,Dec,U.S. News & World Report,5,6.67,irrelevant,353,1
+352,Family-Unfriendly Policies,2007,Oct,U.S. News & World Report,1,1.0,"relinequality, explicit",354,1
+353,Fat Fees and Smoker Surcharges,2009,Nov,Time,3,6.67,relchanges (income/wages/earnings/etc.),355,1
+354,Fat-Cat Football.,2011,Jan,Time,5,6.67,irrelevant,356,1
+355,Fatigue on the right,1995,Oct,U.S. News & World Report,5,6.67,irrelevant,357,1
+356,Federal Taxes State by State,1982,Apr,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),358,1
+357,"Feeling Lucky, Punk?",2002,Sep,Newsweek,5,6.67,irrelevant,359,1
+358,Fewer hands at work,1991,Jun,U.S. News & World Report,1,6.67,"relinequality, explicit",360,1
+359,Fighting the inflation crisis,1980,Mar,Newsweek,1,6.67,"relinequality, explicit",361,1
+360,Fighting the paper chase,1981,Nov,Time,5,6.67,irrelevant,362,1
+361,"Fill 'Er Up with No-Fault, Please",1989,Feb,Time,1,10.0,"relinequality, explicit",363,1
+362,"Finally, a reason to buy bons",1988,Sep,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),364,1
+363,Financial Aid for the Rich,2007,Nov,U.S. News & World Report,1,6.67,"relinequality, explicit",365,1
+364,Finding Income In Retirement,2005,Jun,U.S. News & World Report,2,10.0,"relinequality, implicit",366,1
+365,Finding Second Home Bargains,2010,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),367,1
+366,Finding Work,2003,Feb,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",368,0
+367,Finding a fast track for the economy,1992,Dec,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),369,1
+368,Finding her own Calcutta,2001,Jan,Time,5,6.67,irrelevant,370,1
+369,"First Things First, Mr. President",2008,Dec,Newsweek,2,6.67,"relinequality, implicit",371,1
+370,First ask your boss to pay you back,1990,Nov,U.S. News & World Report,5,6.67,irrelevant,372,1
+371,"First freedom, then jobs",1996,Aug,U.S. News & World Report,5,6.67,irrelevant,373,1
+372,Flying South for the Winter,2006,Sep,Time,5,6.67,irrelevant,374,1
+373,For a Fairer America,2006,Oct,U.S. News & World Report,1,1.0,"relinequality, explicit",375,1
+374,"For unions, another crack at public employes",1983,Nov,U.S. News & World Report v. 95 (November 7 1983) p. 89-90,2,6.67,"relinequality, implicit",376,1
+375,Four on the Floor,2005,May,Newsweek,5,6.67,irrelevant,377,1
+376,Free-Lance Nation: Why Temping Is Permanent,2003,Nov,Time,2,6.67,"relinequality, implicit",378,1
+377,"From Vietnam to now, two wrenching decades",1986,Mar,U.S. News & World Report v. 100 (March 31 1986) p. 42-3,4,6.67,"releconomy (employment, economy)",379,0
+378,From Woodshed to Firing Line,1982,Feb,Time,4,10.0,"releconomy (employment, economy)",380,1
+379,From colds to cancer therapy: tending migrant workers,1981,Jan,U.S. News & World Report,5,6.67,irrelevant,381,1
+380,From pillow talk to money talk,1988,Aug,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),382,1
+381,Front Page vs. Bottom Line,1990,Sep,Time,1,10.0,"relinequality, explicit",383,1
+382,Frugal Forever?,2009,Jul,U.S. News & World Report,2,6.67,"relinequality, implicit",384,1
+383,Fundamentally Strong,2008,Oct,Time,3,6.67,relchanges (income/wages/earnings/etc.),385,1
+384,"G.O.P. Woes: It's Not the Economy, Stupid",2007,Feb,Time,5,6.67,irrelevant,386,1
+385,Gainful Employment,2007,Oct,Time,5,6.67,irrelevant,387,1
+386,Gentle Ben,2006,Jul,Time,3,6.67,relchanges (income/wages/earnings/etc.),388,1
+387,Georgia's populist of the right,1984,Dec,Newsweek,5,6.67,irrelevant,389,1
+388,Get Immigration Right,2005,Nov,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),390,1
+389,Getting Business off the dole,1995,Apr,U.S. News & World Report,1,10.0,"relinequality, explicit",391,1
+390,Getting Offensive,2003,Dec,U.S. News & World Report,5,10.0,irrelevant,392,1
+391,Getting Ready for a Federal Fire Sale,1986,Feb,Newsweek,4,10.0,"releconomy (employment, economy)",393,1
+392,Getting an early jump on coming tax changes,1985,Dec,U.S. News & World Report,5,6.67,irrelevant,394,1
+393,Getting down to business,1992,Sep,Time,1,6.67,"relinequality, explicit",395,1
+394,Getting real,1996,Jan,Newsweek,1,10.0,"relinequality, explicit",396,1
+395,"Getting to know you, part 2",1989,May,Time,5,6.67,irrelevant,397,1
+396,Girding for a pink slip,1991,Jan,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),398,1
+397,"Give me your smart, your skilled . . .",1990,Dec,Newsweek,1,6.67,"relinequality, explicit",399,0
+398,"Give me your tired, your poor . . .",1998,Feb,Time,5,6.67,irrelevant,400,1
+399,Give the speaker a break:,1997,Sep,U.S. News & World Report,2,6.67,"relinequality, implicit",401,1
+400,"Give us your wired, your highly skilled: tech firms are winning the battle of the visas",1998,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),402,1
+401,Giving peace a chance,1982,Jun,Newsweek,5,6.67,irrelevant,403,1
+402,God and managers at Yale,1988,Nov,Newsweek,5,6.67,irrelevant,404,1
+403,God bless the lobster,1984,Jul,Newsweek,5,6.67,irrelevant,405,1
+404,"God help us, every one!",1984,Dec,Newsweek,5,6.67,irrelevant,406,1
+405,Going After The Deficit,1985,Oct,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),407,1
+406,Going To The Chapel,2002,Jun,Time,5,6.67,irrelevant,408,1
+407,Going for it,1985,Jun,Time,1,6.67,"relinequality, explicit",409,1
+408,Good Intentions Gone Bad,2005,Jun,Newsweek,5,10.0,irrelevant,410,1
+409,"Good Luck, Chuck.",2011,,"Newsweek; October 31 2011, Vol. 158 Issue 18, p17-17, 1p",2,1.0,"relinequality, implicit",411,1
+410,Good news ahead on inflation,1989,Nov,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),412,1
+411,Government gets tough,1981,Jan,Time,5,6.67,irrelevant,413,1
+412,Grappling with diversity,1997,Sep,U.S. News & World Report,5,6.67,irrelevant,414,1
+413,Great ripoff in unemployment pay,1981,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",415,1
+414,Gumming up the works,1993,Nov,Time,5,6.67,irrelevant,416,1
+415,Happiness: how Americans pursue it,1985,Mar,U.S. News & World Report,5,6.67,irrelevant,417,1
+416,Hard going for the easy part,1995,Jan,Time,2,10.0,"relinequality, implicit",418,1
+417,Hard times in the heartland,1981,Dec,Time,2,6.67,"relinequality, implicit",419,1
+418,Harry and Louise Strike Again,2008,May,U.S. News & World Report,5,6.67,irrelevant,420,1
+419,Has The War Made Us Safer?,2004,Apr,Newsweek,5,10.0,irrelevant,421,1
+420,Has Walesa been dumped?,1983,Jul,Newsweek,5,6.67,irrelevant,422,1
+421,Has Your Life Become Too Much A Game of Chance?,2004,Feb,Time,1,1.0,"relinequality, explicit",423,1
+422,"Have Contacts, Will Cash In",1990,Feb,Newsweek,5,10.0,irrelevant,424,1
+423,"Have Law Degree, Will Travel",1989,Dec,Time,3,10.0,relchanges (income/wages/earnings/etc.),425,1
+424,Have job prospects started to wilt?,1995,May,U.S. News & World Report,2,6.67,"relinequality, implicit",426,1
+425,He Got What He Wanted,1981,Jul,Time,2,10.0,"relinequality, implicit",427,1
+426,Health care fraud,1992,Feb,U.S. News & World Report,5,6.67,irrelevant,428,1
+427,Healthy inequality,1996,Oct,Newsweek,1,1.0,"relinequality, explicit",429,1
+428,Heckler in chief,1993,Mar,Time,4,6.67,"releconomy (employment, economy)",430,1
+429,Hedging against inflation,1980,Apr,Newsweek v. 95 (April 28 1980) p. 72,3,6.67,relchanges (income/wages/earnings/etc.),431,1
+430,Here Comes Default Line,1996,Jan,Time,4,10.0,"releconomy (employment, economy)",432,1
+431,Here's to the Little People,2003,Feb,Newsweek,1,6.67,"relinequality, explicit",433,1
+432,Hiding from health costs,1984,May,Newsweek,5,6.67,irrelevant,434,1
+433,"High tax, hot cigs",2002,Nov,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),435,1
+434,High tech's fickle helping hand,1989,Dec,Time,4,6.67,"releconomy (employment, economy)",436,1
+435,High-technology lip service,1988,Dec,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",437,1
+436,Higher taxes? Who would pay,1984,Dec,U.S. News & World Report,1,6.67,"relinequality, explicit",438,1
+437,Hit by the tax-rate hike? You can delay some of the pain,1994,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),439,1
+438,Hitting the Economy,2005,Sep,Newsweek,5,6.67,irrelevant,440,1
+439,Hold off on the reunion party,1997,Jun,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),441,1
+440,Holding Dollars Hostage,2010,Nov,Newsweek,1,6.67,"relinequality, explicit",442,1
+441,Holding the Line,2004,Feb,Newsweek,5,10.0,irrelevant,443,1
+442,Hollywood's new hard line,1988,Aug,Newsweek,5,6.67,irrelevant,444,1
+443,Home Ownership,1987,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),445,1
+444,Home is where the job is,1987,Aug,U.S. News & World Report,5,6.67,irrelevant,446,1
+445,Home on the range,2002,May,U.S. News & World Report,2,6.67,"relinequality, implicit",447,1
+446,Hope and desperation,1988,May,Newsweek,5,6.67,irrelevant,448,1
+447,Hope is on the way.,2012,Apr,Time,5,6.67,irrelevant,449,0
+448,Hoping for More Market Magic,1989,Feb,Newsweek,2,10.0,"relinequality, implicit",450,1
+449,Hot enough for you?,2003,Nov,U.S. News & World Report,2,6.67,"relinequality, implicit",451,1
+450,Hot time in Gucci Gulch,2001,Feb,Newsweek,5,6.67,irrelevant,452,1
+451,House of Cards,1992,Apr,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",453,0
+452,How America has run out of time,1989,Apr,Time,1,6.67,"relinequality, explicit",454,1
+453,How CEO pay got away,1997,Mar,Time,1,10.0,"relinequality, explicit",455,1
+454,How His Legacy Lives On,2004,Jun,Time,5,6.67,irrelevant,456,1
+455,How Long Will America Lead the World?,2006,Jun,"Newsweek v. 147 no. 24 (June 12 2006) p. 40-2, 44-5",3,6.67,relchanges (income/wages/earnings/etc.),457,1
+456,How Reagan rates now in his hometown,1982,Sep,U.S. News & World Report v. 93 (September 20 1982) p. 22,1,6.67,"relinequality, explicit",458,1
+457,How Rehnquist Changed America,2003,Jun,Time,5,6.67,irrelevant,459,1
+458,How Rich got off the hook,2001,Feb,Time,5,6.67,irrelevant,460,1
+459,How Russia steals U.S. defense secrets,1981,May,U.S. News & World Report,5,6.67,irrelevant,461,1
+460,How We Work Now,1999,Feb,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),462,1
+461,How a Pro Thinks About Investing in New Markets,2007,Oct,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),463,1
+462,How can we miss you if you never go away?,2001,Feb,Time,5,6.67,irrelevant,464,1
+463,How computers change lives,1982,Aug,Newsweek,5,6.67,irrelevant,465,1
+464,How families cope when jobs disappear,1980,Jul,U.S. News & World Report,2,6.67,"relinequality, implicit",466,1
+465,How fast should we grow?,1996,Jul,Time,2,6.67,"relinequality, implicit",467,1
+466,How flat is flat?,1982,Aug,Newsweek,1,6.67,"relinequality, explicit",468,1
+467,How low should they go?,1996,Apr,Newsweek,5,6.67,irrelevant,469,1
+468,How much should we be paid?,1993,Nov,Newsweek,1,1.0,"relinequality, explicit",470,1
+469,How the Cuts Help,1981,Aug,Newsweek,1,10.0,"relinequality, explicit",471,1
+470,How the Next President Should Fix the Economy,2008,May,Time,1,6.67,"relinequality, explicit",472,1
+471,How the dollar has shrunk in the 20th century,1983,Feb,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",473,0
+472,How the newest rules can work for you,1988,May,U.S. News & World Report,1,6.67,"relinequality, explicit",474,1
+473,How to Fix a Market Failure,2008,May,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),475,1
+474,How to Gain From the Economy's Pain.,2011,Aug,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),476,1
+475,How to Grab the Voters,1996,Aug,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),477,1
+476,How to Make the Victory Stick,2003,Apr,Time,5,6.67,irrelevant,478,1
+477,"How to fix ""A Budget Out of Control""",1982,Jul,U.S. News & World Report,1,10.0,"relinequality, explicit",479,1
+478,How to get the country moving again: advice from six Nobel Prize economists,1983,Jan,U.S. News & World Report,1,6.67,"relinequality, explicit",480,1
+479,How to win big in Brazil: psyching out inflation,1986,Jun,U.S. News & World Report,5,6.67,irrelevant,481,1
+480,How tough is Greenspan?,1987,Jun,Newsweek,4,6.67,"releconomy (employment, economy)",482,1
+481,How work force is being transformed,1982,Apr,U.S. News & World Report,1,6.67,"relinequality, explicit",483,1
+482,How you can track the U.S. economy,1981,Dec,U.S. News & World Report,5,6.67,irrelevant,484,1
+483,I Lift My Lamp É Beside the Golden Gate.,2012,Jul,Time,4,6.67,"releconomy (employment, economy)",485,0
+484,I Met Bin Laden,2003,Oct,Newsweek,5,10.0,irrelevant,486,1
+485,I Still Have Nightmares',1991,Sep,Newsweek,5,10.0,irrelevant,487,1
+486,I [Love] Government.,2011,Sep,Newsweek,2,6.67,"relinequality, implicit",488,1
+487,I was good and he was evil,1993,Jun,Newsweek,5,10.0,irrelevant,489,0
+488,"I'm a Conservative, But I'm Not a Hatemonger",2002,Oct,Newsweek,5,6.67,irrelevant,490,1
+489,I'm a cardless person,1980,May,Time,3,6.67,relchanges (income/wages/earnings/etc.),491,1
+490,IRS takes on multinational companies,1983,Oct,U.S. News & World Report,5,6.67,irrelevant,492,1
+491,Idea factories of the right,1980,Dec,Newsweek,5,6.67,irrelevant,493,1
+492,If Obama Wins,2008,Nov,Time,4,6.67,"releconomy (employment, economy)",494,1
+493,If You Think Taxes Are High in U.S.,1984,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),495,1
+494,If all the world's a computer . . .,2000,Jan,Newsweek,5,6.67,irrelevant,496,1
+495,If inflation kills the bull,1998,Aug,Newsweek v. 132 no. 6 (August 10 1998) p. 67+,2,6.67,"relinequality, implicit",497,1
+496,If the Gobbledygook Confuses You,1983,Apr,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),498,1
+497,"If you lose money, are you in business?",1995,Jul,U.S. News & World Report,5,6.67,irrelevant,499,1
+498,Ignorance and inequality,1992,Jun,U.S. News & World Report,1,1.0,"relinequality, explicit",500,1
+499,Images,1981,Jan,Time,5,6.67,irrelevant,501,1
+500,"In Congress, Iraq Is A Political Quagmire",2007,Mar,U.S. News & World Report,5,10.0,irrelevant,502,1
+501,In Defense of the Free Market,2008,Nov,U.S. News & World Report v. 145 no. 11 (November 17-24 2008) p. 60,4,6.67,"releconomy (employment, economy)",503,1
+502,"In Iraq, in uniform, an in turmoil",2003,Oct,U.S. News & World Report,5,10.0,irrelevant,504,1
+503,"In Russia, shortage of workers is the problem",1983,Jul,U.S. News & World Report,5,6.67,irrelevant,505,1
+504,In The Tanks For The Democrats,2007,Apr,U.S. News & World Report,5,6.67,irrelevant,506,1
+505,In prospect: tax cut to fight recession,1980,May,U.S. News & World Report,2,6.67,"relinequality, implicit",507,1
+506,"In rural Oregon, The grapes of wrath, again",1988,May,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),508,1
+507,"In the Short Term, Good News.",2011,May,Time,4,6.67,"releconomy (employment, economy)",509,1
+508,In the school of democracy,1989,Oct,Time,5,6.67,irrelevant,510,1
+509,Indifferent to inequality?,2001,May,Newsweek,1,1.0,"relinequality, explicit",511,1
+510,Inflation and taxes,1983,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",512,1
+511,Inflation crisis,1984,Nov,Time,5,6.67,irrelevant,513,1
+512,Inflation gets nailed: America's slow wage growth has hammered away at prices,1994,May,U.S. News & World Report,2,6.67,"relinequality, implicit",514,1
+513,Inflation makes the gardens grow,1980,Mar,U.S. News & World Report v. 88 (March 10 1980) p. 70-1,4,6.67,"releconomy (employment, economy)",515,1
+514,Inflation slowdown is bad news for some,1982,Jun,U.S. News & World Report,1,6.67,"relinequality, explicit",516,1
+515,Inflation's painful slowdown,1982,Mar,Time v. 119 (March 29 1982) p. 46-7+,2,6.67,"relinequality, implicit",517,1
+516,Inflation: 'clear for takeoff',1989,Mar,Newsweek,2,6.67,"relinequality, implicit",518,1
+517,Inflation: fingers in the dike,1980,Mar,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),519,1
+518,Inflation: turning point?,1981,Dec,Newsweek,2,6.67,"relinequality, implicit",520,1
+519,Inidia Puppies and Consumer Boomers,1989,Nov,Time,5,10.0,irrelevant,521,1
+520,Interest Groups Fight Back,1984,Dec,U.S. News & World Report,2,10.0,"relinequality, implicit",522,1
+521,Interpreting the new moderation,1982,Nov,Time,1,6.67,"relinequality, explicit",523,1
+522,Iraq's Catch-22,2004,Dec,U.S. News & World Report,5,6.67,irrelevant,524,1
+523,Is 2010 the Year of Avoiding Taxes?,2010,Mar,U.S. News & World Report,1,6.67,"relinequality, explicit",525,1
+524,Is America Losing At Globalization?,2008,Sep,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),526,1
+525,Is America working smarter?,1989,Jan,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),527,1
+526,Is Baghdad Ready for the U.S. to Start Leaving?,2008,Dec,U.S. News & World Report,5,10.0,irrelevant,528,1
+527,Is Housing a New Bubble?,2004,Apr,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),529,1
+528,Is Iran Provoking the Unrest?,2004,Apr,Time,5,10.0,irrelevant,530,1
+529,Is Reagan not a Reaganite?,1981,Jan,Newsweek,5,6.67,irrelevant,531,0
+530,Is Wall Street right?,1987,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),532,1
+531,Is a tax cut the right remedy?,2001,Jan,Time,3,6.67,relchanges (income/wages/earnings/etc.),533,1
+532,Is middle class really doomed to shrivel away?,1984,Aug,U.S. News & World Report,1,1.0,"relinequality, explicit",534,1
+533,Is the rally real?,2003,Jun,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),535,1
+534,Is this the right medicine?,2001,Feb,Newsweek,1,6.67,"relinequality, explicit",536,1
+535,It taught boycotts. Now it faces one,2001,Nov,Time,5,6.67,irrelevant,537,1
+536,"It's Always the Economy, Stupid",2010,Jul,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),538,1
+537,It's Bad to Be the King,2006,May,Time,5,6.67,irrelevant,539,1
+538,"It's Rubin, stupid",1997,Jun,Newsweek,1,6.67,"relinequality, explicit",540,1
+539,"It's The Weather, Stupid",2012,Apr,Newsweek,4,6.67,"releconomy (employment, economy)",541,1
+540,It's a new economic landscape now,1986,Sep,U.S. News & World Report,2,6.67,"relinequality, implicit",542,1
+541,It's all a confidence game,1992,Jan,Time,2,6.67,"relinequality, implicit",543,1
+542,It's in the numbers: business is slow,1993,May,Time,4,6.67,"releconomy (employment, economy)",544,0
+543,It's still the economy,1994,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",545,1
+544,Jack's Toughest Deal,2002,Nov,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),546,1
+545,Japan's bow of contrition,1987,Jul,Newsweek,5,6.67,irrelevant,547,1
+546,"Japan's down, Citibank's Up",1998,Sep,U.S. News & World Report,5,10.0,irrelevant,548,1
+547,"Jesus saves, you invest",1998,Apr,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),549,1
+548,Job Tide Lifts Some States' Boats.,2011,Sep,Time,4,6.67,"releconomy (employment, economy)",550,0
+549,Jobless pay takes work,2001,Nov,U.S. News & World Report,1,6.67,"relinequality, explicit",551,1
+550,"Jobless rates, state by state",1983,Jun,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",552,1
+551,Joblessness is Here to Stay,2009,Dec,Newsweek,1,6.67,"relinequality, explicit",553,1
+552,Jobs are on the Way!,2009,Dec,Newsweek,1,6.67,"relinequality, explicit",554,1
+553,Jobs: a million that will never come back,1982,Sep,U.S. News & World Report,1,6.67,"relinequality, explicit",555,1
+554,Jobs: putting America back to work,1982,Oct,Newsweek,1,6.67,"relinequality, explicit",556,1
+555,Jobs: the haves and have-nots,1982,Feb,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",557,1
+556,Joint Misadventures,1989,Apr,Time,5,10.0,irrelevant,558,1
+557,Just Say No,2009,Aug,Time,5,6.67,irrelevant,559,1
+558,"Just you move over, 'Enry 'Iggins",1989,Apr,U.S. News & World Report,5,6.67,irrelevant,560,1
+559,Kansas City doesn't just talk,1990,Feb,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),561,1
+560,Keeping U.S. Jobs at Home,2004,May,Newsweek,4,10.0,"releconomy (employment, economy)",562,1
+561,Key events and anniversaries of 1987,1986,Dec,U.S. News & World Report,5,6.67,irrelevant,563,1
+562,Labor's agenda for the '90s,1990,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",564,1
+563,Last-minute bust in Hamburg,1983,Nov,Time,5,6.67,irrelevant,565,1
+564,Leader of the Freaked-Out World.,2011,Mar,Newsweek,4,6.67,"releconomy (employment, economy)",566,1
+565,Learning to Think Smaller,1981,Sep,Time,2,10.0,"relinequality, implicit",567,1
+566,Leaving 1980 on an upbeat,1981,Jan,Time,2,6.67,"relinequality, implicit",568,1
+567,Left on the launch pad,2000,Feb,Newsweek,5,6.67,irrelevant,569,1
+568,Lemons into loopholds,2000,Dec,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),570,1
+569,"Lemons, But No Lehman Aid",2008,Sep,Newsweek,2,6.67,"relinequality, implicit",571,1
+570,Less taxing ways of entertaining,1988,Jun,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),572,1
+571,Lessons from the Rubble,2003,Sep,Time,5,10.0,irrelevant,573,1
+572,Lessons of the spring elections,1993,Jun,U.S. News & World Report,1,10.0,"relinequality, explicit",574,1
+573,Let The Horse Trading Begin,2005,Feb,U.S. News & World Report,2,6.67,"relinequality, implicit",575,1
+574,Let's take risks again,1980,May,Newsweek,1,6.67,"relinequality, explicit",576,1
+575,Liberating the Teamsters,1991,Dec,Newsweek,5,6.67,irrelevant,577,1
+576,Life after the Red menace,1987,Dec,U.S. News & World Report,5,6.67,irrelevant,578,1
+577,Life among the 'meritocrats',1993,Aug,U.S. News & World Report,1,1.0,"relinequality, explicit",579,1
+578,Life among the cyberfolk,1995,Mar,U.S. News & World Report,5,6.67,irrelevant,580,1
+579,Lining Up That Second Career Takes Focus,2008,Sep,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),581,1
+580,"Listen up, tax tinkerers: let's be fair",1989,Oct,Time,1,6.67,"relinequality, explicit",582,1
+581,"Listen, can we talk?",1989,Mar,Newsweek,2,6.67,"relinequality, implicit",583,1
+582,"Listen, learn--change",2001,May,U.S. News & World Report,1,1.0,"relinequality, explicit",584,1
+583,"Listen, the U.S. is better, stronger, and faster than anywhere else in the world. (cover story)",2012,May,Newsweek,4,6.67,"releconomy (employment, economy)",585,1
+584,Living the Dream,1999,Jul,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",586,1
+585,Living with inflation,1980,Feb,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),587,1
+586,Living with less inflation,1991,Oct,U.S. News & World Report,2,6.67,"relinequality, implicit",588,1
+587,Look who's antiwar now,1990,Sep,Time,5,6.67,irrelevant,589,1
+588,Looking to Washington to Save Housing,2008,Feb,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),590,1
+589,Losing Altitude,2003,Apr,U.S. News & World Report,2,6.67,"relinequality, implicit",591,1
+590,Losing big under Treasury II,1985,Jun,Time,1,6.67,"relinequality, explicit",592,1
+591,Losing the inner instincts,1980,Jun,Time,4,6.67,"releconomy (employment, economy)",593,1
+592,Lost to the Ages,2003,Apr,Time,5,10.0,irrelevant,594,1
+593,Lower minimum wage for teenagers?,1983,Apr,U.S. News & World Report,2,6.67,"relinequality, implicit",595,1
+594,Macho Tax Cuts,1995,Jun,Newsweek,1,10.0,"relinequality, explicit",596,1
+595,Mad dogs and congressman,1994,Feb,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",597,1
+596,Made (Again) in the U.S.A.,2011,Oct,Time,4,6.67,"releconomy (employment, economy)",598,1
+597,Maestro of the business cycle?,1994,Aug,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),599,1
+598,Making Friends of Foes,2004,Jun,Newsweek,5,10.0,irrelevant,600,1
+599,Making Money Last For Life,1999,Oct,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),601,1
+600,Making moving pay off,1986,Jun,U.S. News & World Report,5,6.67,irrelevant,602,1
+601,Making of a Minsk tractor,1980,Jun,Time,5,6.67,irrelevant,603,1
+602,Man Of The Hour,2005,Aug,U.S. News & World Report,5,6.67,irrelevant,604,1
+603,"Man of the Year: Common touch, a bit of vanity, and growing anxiety",1982,Jan,Time,5,6.67,irrelevant,605,1
+604,Man of the Year: interview with Lech Walesa,1982,Jan,Time,5,6.67,irrelevant,606,1
+605,Marching out of step,1984,May,Time,5,6.67,irrelevant,607,1
+606,Married to the Job,2009,Feb,Time,3,6.67,relchanges (income/wages/earnings/etc.),608,1
+607,McCain's Burden,2010,Jul,Newsweek,5,6.67,irrelevant,609,1
+608,Meet David Stockman,1981,Feb,Newsweek,1,10.0,"relinequality, explicit",610,1
+609,Meet Free-lunch Forbes,1996,Feb,Newsweek,1,6.67,"relinequality, explicit",611,1
+610,Membership Has Its Penalties,2009,Jan,Newsweek,2,6.67,"relinequality, implicit",612,1
+611,Men at Overwork,2003,Aug,Newsweek,1,6.67,"relinequality, explicit",613,1
+612,Mergers' New Twist: Divorce Insurance,2005,Jul,Newsweek,1,10.0,"relinequality, explicit",614,1
+613,Message to job seekers: good luck,1992,Sep,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),615,1
+614,"Middle Class, R.I.P.",2012,,"Newsweek; 6/25/2012, Vol. 159 Issue 26, p22-22, 1p, 1 Color Photograph",1,1.0,"relinequality, explicit",616,1
+615,Middle-class warfare,1990,Jun,U.S. News & World Report,1,6.67,"relinequality, explicit",617,1
+616,Monetary instability,1981,Jun,Newsweek,4,6.67,"releconomy (employment, economy)",618,1
+617,Money Watch,2006,Dec,U.S. News & World Report,5,6.67,irrelevant,619,1
+618,Money Watch,2006,Jan,U.S. News & World Report,5,6.67,irrelevant,620,1
+619,Money Watch,2006,Nov,U.S. News & World Report,5,6.67,irrelevant,621,1
+620,Money Watch,2007,Nov,U.S. News & World Report,5,6.67,irrelevant,622,1
+621,Money Watch,2007,Oct,U.S. News & World Report,5,6.67,irrelevant,623,1
+622,Money Watch April 25 2005,2005,Apr,U.S. News & World Report,5,6.67,irrelevant,624,1
+623,Money Watch December 19 2005,2005,Dec,U.S. News & World Report,5,6.67,irrelevant,625,1
+624,Money Watch June 6 2005,2005,Jun,U.S. News & World Report,2,6.67,"relinequality, implicit",626,1
+625,Money Watch May 2 2005,2005,May,U.S. News & World Report,5,6.67,irrelevant,627,1
+626,Money Watch October 3 2005,2005,Oct,U.S. News & World Report,5,6.67,irrelevant,628,1
+627,Money Watch- August 29 2005,2005,Aug,U.S. News & World Report,5,6.67,irrelevant,629,1
+628,Money Watch- December 5 2005,2005,Dec,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",630,1
+629,Monkey business,1982,May,U.S. News & World Report,2,6.67,"relinequality, implicit",631,1
+630,Moore in The E.R.,2007,May,Time,5,6.67,irrelevant,632,1
+631,More Than One Kind of Shelter,2004,Dec,U.S. News & World Report,5,6.67,irrelevant,633,1
+632,More moves in the game,1996,Feb,U.S. News & World Report,5,6.67,irrelevant,634,1
+633,More severe slump,1980,May,Time,4,6.67,"releconomy (employment, economy)",635,1
+634,"More union leaders join $100,000-plus club",1985,Mar,U.S. News & World Report,2,6.67,"relinequality, implicit",636,1
+635,Moving in,1993,Jan,Time,3,6.67,relchanges (income/wages/earnings/etc.),637,1
+636,Ms. Right,2005,Apr,Time,5,6.67,irrelevant,638,1
+637,Mugabe's Last Stand,2008,Mar,Newsweek,5,6.67,irrelevant,639,1
+638,Muted thunder on the right,1982,Jul,Time,5,6.67,irrelevant,640,1
+639,NFL strike throws both sides for loss,1982,Nov,U.S. News & World Report,5,6.67,irrelevant,641,0
+640,Nails for Solidarity's coffin,1986,Jun,Time,5,6.67,irrelevant,642,1
+641,National identity card?,1980,Sep,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",643,1
+642,Never say never,1989,Jan,Time,5,6.67,irrelevant,644,1
+643,New Jobs Blossom in Leisure Field,1984,Aug,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),645,1
+644,New Power for the Pen,1996,Apr,Time,4,10.0,"releconomy (employment, economy)",646,1
+645,New Tax Breaks for Homeowners,1982,Jan,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),647,0
+646,New economics,1981,Nov,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),648,1
+647,New from Congress: Business as Usual,1992,Aug,Newsweek,1,10.0,"relinequality, explicit",649,1
+648,New math for inflation,1981,Nov,Newsweek,5,6.67,irrelevant,650,1
+649,New resolve by the new right,1980,Dec,Time,5,6.67,irrelevant,651,1
+650,No Easy Options,2004,Apr,Time,5,10.0,irrelevant,652,1
+651,No more government-as-usual,1993,Apr,U.S. News & World Report,5,6.67,irrelevant,653,1
+652,No place like home,1993,Nov,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),654,1
+653,No taxation without simplification,1988,Aug,U.S. News & World Report,5,6.67,irrelevant,655,1
+654,Nominal vs. Real News,2005,Aug,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),656,1
+655,Northwest passage,1998,Sep,Newsweek,5,6.67,irrelevant,657,1
+656,Not Mother Nature's way,1999,Nov,Newsweek,5,6.67,irrelevant,658,1
+657,Not guilty by necessity,1987,Apr,Time,5,6.67,irrelevant,659,0
+658,Now Willie Horton stalks the GOP,1989,Mar,U.S. News & World Report,5,6.67,irrelevant,660,0
+659,Now we're on our own,1989,Feb,Newsweek,5,10.0,irrelevant,661,1
+660,Now we're talking some real money,2001,Apr,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),662,1
+661,"Now, Social in-security",1993,Feb,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),663,1
+662,Obama Preaches Deficit Sanity.,2011,Apr,Time,4,6.67,"releconomy (employment, economy)",664,1
+663,Obama's CEO Problem,2010,Jul,Newsweek,4,6.67,"releconomy (employment, economy)",665,1
+664,Obama's Old Deal,2010,Sep,Newsweek,1,6.67,"relinequality, explicit",666,1
+665,Obama's Unfair Shot.,2012,Jun,Newsweek,2,6.67,"relinequality, implicit",667,1
+666,Obamacare vs. Medicare.,2012,Dec,Time,2,6.67,"relinequality, implicit",668,1
+667,Of cash and Carey,1997,Oct,Time,5,6.67,irrelevant,669,1
+668,"Of men, women, and money",2005,Mar,U.S. News & World Report,5,1.0,irrelevant,670,1
+669,Of winners and losers and pure puzzlement,1994,Apr,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),671,1
+670,Off the radar screen,1994,Jan,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),672,1
+671,Off to market we go,1994,Apr,U.S. News & World Report,5,6.67,irrelevant,673,1
+672,Office in the home,1982,Jun,U.S. News & World Report,5,6.67,irrelevant,674,0
+673,"Oh, That Miserable Economy!",2005,Dec,U.S. News & World Report,2,6.67,"relinequality, implicit",675,1
+674,"Oh, for haven's sake!",2002,May,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",676,1
+675,"Oh, no, the federal deficit is shrinking!",1997,Jan,U.S. News & World Report,1,10.0,"relinequality, explicit",677,1
+676,Oil union blues,1983,Oct,Time,5,6.67,irrelevant,678,1
+677,On a Roll,2004,Jan,U.S. News & World Report,1,6.67,"relinequality, explicit",679,1
+678,On heaven's ticket,1994,Jun,Time,5,6.67,irrelevant,680,1
+679,On the Tax Program,1981,Jun,U.S. News & World Report,1,10.0,"relinequality, explicit",681,1
+680,One for the hawks,1992,Dec,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),682,1
+681,One for the rank and file,1993,Jul,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),683,1
+682,One way to keep inflation down,1983,May,Newsweek v. 101 (May 2 1983) p. 17,1,6.67,"relinequality, explicit",684,1
+683,One-armed economists,2003,May,U.S. News & World Report,2,6.67,"relinequality, implicit",685,1
+684,Our 'Kindness Deficit' of Care,2004,Nov,Newsweek,5,6.67,irrelevant,686,1
+685,Our Great Recession Obsession,2007,Nov,Newsweek,2,6.67,"relinequality, implicit",687,1
+686,Our POWs Shoudn't Have to Wait Anymore,2002,Nov,Newsweek,5,6.67,irrelevant,688,1
+687,Our healthcare guilt trip,2003,Oct,U.S. News & World Report,5,6.67,irrelevant,689,1
+688,Our identity crisis,1995,Mar,U.S. News & World Report,1,6.67,"relinequality, explicit",690,1
+689,Out of hiding,1986,Oct,Time,5,6.67,irrelevant,691,1
+690,Out of the woods?,1980,Jun,U.S. News & World Report v. 88 (June 16 1980) p. 104,3,6.67,relchanges (income/wages/earnings/etc.),692,1
+691,Pampering the elderly I,1990,Oct,Newsweek,1,10.0,"relinequality, explicit",693,1
+692,Pampering the elderly II,1990,Nov,Newsweek,2,10.0,"relinequality, implicit",694,1
+693,Pandering for votes,1992,Jan,Newsweek,1,6.67,"relinequality, explicit",695,1
+694,Papa's little deduction,1991,Jun,Newsweek,1,6.67,"relinequality, explicit",696,1
+695,Paying for the Clinton plan,1993,Jun,Time,5,6.67,irrelevant,697,1
+696,Paying the Price,2004,Apr,U.S. News & World Report,5,10.0,irrelevant,698,1
+697,Per Capita Income State by State,1983,May,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),699,1
+698,"Physician, wheel thyself",1991,May,Newsweek,4,10.0,"releconomy (employment, economy)",700,1
+699,Picking Through The Wreckage,2008,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),701,1
+700,Picking up the pace,1999,Feb,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),702,1
+701,Pie in the sky,1987,Jan,Time,1,10.0,"relinequality, explicit",703,1
+702,Plague of job hoppers,1981,Jun,Time,3,6.67,relchanges (income/wages/earnings/etc.),704,1
+703,Planning for Retirement,1982,Mar,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),705,1
+704,Playing Both Sides of the Fence,2005,Dec,Time,5,6.67,irrelevant,706,1
+705,Playing Fair on Taxes,2006,May,U.S. News & World Report,1,1.0,"relinequality, explicit",707,1
+706,Playing Russian roulette,1980,Dec,Time,5,6.67,irrelevant,708,1
+707,Playing hardball,1993,Apr,Newsweek v. 121 (April 19 1993) p. 24-5,1,6.67,"relinequality, explicit",709,1
+708,Playing politics with jobs,1983,Feb,Newsweek,2,6.67,"relinequality, implicit",710,1
+709,Plenty of Job Openings - for Right Skills,1980,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),711,1
+710,Poking a Stick Into The 'Hive Mind',2006,Aug,Newsweek,5,6.67,irrelevant,712,1
+711,Poland buys some time,1981,Feb,Newsweek,5,6.67,irrelevant,713,1
+712,Poland faces a grim winter,1981,Oct,Newsweek,5,6.67,irrelevant,714,1
+713,Poland vs. Russia: the Pope steps in,1981,Sep,U.S. News & World Report,5,6.67,irrelevant,715,1
+714,Poland's coal miners: pampered but rebellious,1982,Oct,U.S. News & World Report,5,6.67,irrelevant,716,1
+715,Poland's man of peace,1983,Oct,Newsweek,5,6.67,irrelevant,717,1
+716,Poland: the long road ahead,1989,Sep,Newsweek,5,6.67,irrelevant,718,1
+717,Poles send their rulers a message,1984,May,U.S. News & World Report,5,6.67,irrelevant,719,1
+718,Political shift to right--will it last in '80s?,1981,Feb,U.S. News & World Report,5,6.67,irrelevant,720,1
+719,Politics Over Reason,1982,Aug,Time,3,10.0,relchanges (income/wages/earnings/etc.),721,1
+720,Portrait of '82,1982,Dec,Newsweek,4,6.67,"releconomy (employment, economy)",722,1
+721,Portrait of a Bull Market,2006,Nov,Time,2,6.67,"relinequality, implicit",723,1
+722,Postal mortem?,2001,Nov,U.S. News & World Report,5,6.67,irrelevant,724,1
+723,Postcard: Islamabad,2007,Jul,Time,5,6.67,irrelevant,725,1
+724,Postcard: Warsaw,2008,Dec,Time,5,6.67,irrelevant,726,1
+725,Postpone Retirement?,2009,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),727,1
+726,Prepare to deal with a murky market,2001,Jan,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),728,1
+727,"President's Budget Proposal, Phase II",1985,Apr,U.S. News & World Report,2,10.0,"relinequality, implicit",729,0
+728,Priceless image making,2004,Jan,U.S. News & World Report,5,6.67,irrelevant,730,1
+729,Profiting from Europe's pain,1992,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),731,1
+730,Profits and Tax Breaks - Bonanza for Business,1984,Jan,U.S. News & World Report,2,10.0,"relinequality, implicit",732,1
+731,Progeny of Proposition 13,1984,Nov,Time,3,10.0,relchanges (income/wages/earnings/etc.),733,1
+732,Program for a New Federalism,1982,Jan,Time,2,10.0,"relinequality, implicit",734,1
+733,"Promises, promises",1990,Jul,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),735,1
+734,Prudent and responsible?,1980,Feb,Time,2,6.67,"relinequality, implicit",736,1
+735,Public Sector Profligacy,2010,Oct,U.S. News & World Report,1,1.0,"relinequality, explicit",737,1
+736,Putting Down a Riot,2004,Jun,U.S. News & World Report,5,6.67,irrelevant,738,1
+737,Putting the budget in perspective,1982,Feb,U.S. News & World Report,1,10.0,"relinequality, explicit",739,1
+738,Quitting Time,2004,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),740,1
+739,"RICH AMERICA, POOR AMERICA.",2012,,"Newsweek; 1/23/2012, Vol. 159 Issue 4, p42-47, 6p",1,1.0,"relinequality, explicit",741,1
+740,Rage Could End Up Hurting Us,2009,Mar,Newsweek,1,6.67,"relinequality, explicit",742,1
+741,Rage against the machine,1999,Dec,Time,2,6.67,"relinequality, implicit",743,1
+742,Rage builds in South Korea,1987,Jun,U.S. News & World Report,5,6.67,irrelevant,744,0
+743,Raging global price plague,1980,Mar,Time,4,6.67,"releconomy (employment, economy)",745,1
+744,Rana Foroohar,2012,,"Time; 11/19/2012, Vol. 180 Issue 21, p35-35, 1p",1,1.0,"relinequality, explicit",746,1
+745,Reaching out to labor,1985,Apr,Time,3,6.67,relchanges (income/wages/earnings/etc.),747,1
+746,Reagan and Congress square off again,1982,Oct,U.S. News & World Report,2,6.67,"relinequality, implicit",748,1
+747,Reagan extends a peace pipe to unions,1981,Dec,U.S. News & World Report v. 91 (December 14 1981) p. 67,2,6.67,"relinequality, implicit",749,1
+748,Reagan mixes it up with the Democrats,1982,Oct,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",750,1
+749,Reagan readies the ax,1981,Feb,Newsweek,1,6.67,"relinequality, explicit",751,1
+750,Reagan's Ailing Economy,1981,Sep,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),752,1
+751,Reagan's Fall Offensive,1981,Sep,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),753,1
+752,Reagan's Local Fallout,1981,Dec,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),754,1
+753,Reagan's Rx for a sick economy,1981,Jan,U.S. News & World Report,2,6.67,"relinequality, implicit",755,1
+754,"Reagan's top aide sizes up economy, Mideast",1982,Oct,U.S. News & World Report,2,6.67,"relinequality, implicit",756,1
+755,Reagan: eyes right,1987,Mar,Newsweek,5,6.67,irrelevant,757,1
+756,Real cost of things you buy,1980,Oct,U.S. News & World Report,5,6.67,irrelevant,758,1
+757,Reality bites the GOP Contract,1995,Apr,U.S. News & World Report,1,6.67,"relinequality, explicit",759,1
+758,Reality of the Deficit Hits Washington,1985,Nov,U.S. News & World Report,2,10.0,"relinequality, implicit",760,1
+759,Recalling in sorrow and hope,1982,Aug,Time,5,6.67,irrelevant,761,1
+760,Recovery forecast: not yet,1980,Dec,Time,3,6.67,relchanges (income/wages/earnings/etc.),762,1
+761,"Red Nation, Blue Nation",2007,Jun,U.S. News & World Report,5,6.67,irrelevant,763,1
+762,Referendum on Reagan,1982,Oct,Newsweek,2,6.67,"relinequality, implicit",764,1
+763,Reining in the rich,1994,Dec,Time,1,6.67,"relinequality, explicit",765,1
+764,Reinventing China,1989,May,U.S. News & World Report,5,10.0,irrelevant,766,1
+765,Remembering the dream,1983,Sep,Newsweek,5,6.67,irrelevant,767,1
+766,Renewed effort for subminimum wage,1985,Jun,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),768,0
+767,Repeal the Marriage Tax?,1995,Apr,Newsweek,1,10.0,"relinequality, explicit",769,1
+768,Restiveness on the right,1990,Dec,Time,5,6.67,irrelevant,770,1
+769,Rethinking health care,1994,Jun,Newsweek,5,6.67,irrelevant,771,1
+770,Retirement Roulette,1998,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),772,1
+771,Return of the Luddites,1999,Dec,Time,5,6.67,irrelevant,773,1
+772,"Rich Man, Poor Man",2006,Jun,U.S. News & World Report,1,1.0,"relinequality, explicit",774,1
+773,Riding Out Rising Prices,2005,Apr,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),775,1
+774,Right face!,1991,Jul,Time,5,6.67,irrelevant,776,1
+775,Right: a house divided?,1981,Feb,Newsweek,5,6.67,irrelevant,777,1
+776,Rise of the permatemp,1999,Jul,Time v. 154 no. 2 (July 12 1999) p. 48,2,6.67,"relinequality, implicit",778,1
+777,Robot revolution,1980,Dec,Time v. 116 (December 8 1980) p. 72-8+,1,6.67,"relinequality, explicit",779,1
+778,Romney's Long March.,2012,Mar,Time,5,6.67,irrelevant,780,1
+779,"Rookie Teacher, Age 50",2001,Apr,Time,3,10.0,relchanges (income/wages/earnings/etc.),781,1
+780,Ross Perot's cons,1993,Jun,U.S. News & World Report,2,6.67,"relinequality, implicit",782,1
+781,Ross Perot's precarious plan,1992,Oct,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),783,1
+782,Rot on the right,1992,Aug,Time,5,6.67,irrelevant,784,1
+783,Rumbles on the right,1985,Aug,Time,5,6.67,irrelevant,785,1
+784,Runnin' scared of recession,1991,Oct,Newsweek,2,6.67,"relinequality, implicit",786,1
+785,Rush to the Bottom. (cover story),2012,Mar,Newsweek,5,6.67,irrelevant,787,1
+786,Rush to the Gold Coast,1982,May,Time,1,6.67,"relinequality, explicit",788,1
+787,Russia walks its own tightrope in Poland,1981,Apr,U.S. News & World Report,5,6.67,irrelevant,789,1
+788,SHOPPING: THE RICH AND THE REST.,2011,,"Time; October 10 2011, Vol. 178 Issue 14, p39-39, 1p",1,1.0,"relinequality, explicit",790,1
+789,Saint Sarah,2010,Jun,Newsweek,5,6.67,irrelevant,791,1
+790,Saving Eskimo Capitalism,1987,Jan,Newsweek,4,10.0,"releconomy (employment, economy)",792,1
+791,Saving the Fairies,2005,May,U.S. News & World Report,1,6.67,"relinequality, explicit",793,1
+792,Saving the Surplus,2000,Jan,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),794,1
+793,Say No to Class War,2008,Aug,Time,1,1.0,"relinequality, explicit",795,1
+794,Scandal as usual,2002,Dec,U.S. News & World Report,5,6.67,irrelevant,796,1
+795,Scenes from A Revolution.,2011,Aug,Time,5,6.67,irrelevant,797,1
+796,Schools are my business,1987,May,Newsweek,5,6.67,irrelevant,798,1
+797,Scuffling over satellites,1998,Aug,Newsweek,5,6.67,irrelevant,799,1
+798,Seeking Bargains Abroad?,1983,Jun,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",800,1
+799,Seeking the 'Real' Roberts,2005,Aug,Newsweek,5,6.67,irrelevant,801,1
+800,"Sell in,' Bliss Out",1997,Dec,Newsweek,1,10.0,"relinequality, explicit",802,1
+801,Selling Tax Credits - a Hot New Market,1981,Nov,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",803,1
+802,Senate's Mr. Right,1981,Mar,Newsweek,5,6.67,irrelevant,804,1
+803,Setting up shop down Mexico way,1981,May,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),805,1
+804,Settling with the IRS for $200 million,1984,Oct,Newsweek,5,6.67,irrelevant,806,0
+805,Sewing up a victory for textile workers,1980,Nov,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),807,1
+806,Shadow of the bear,1980,Sep,Newsweek,5,6.67,irrelevant,808,1
+807,Shape up--or else!,1991,Jul,Newsweek,5,6.67,irrelevant,809,1
+808,Sharing profits at Baby Bells,1986,Aug,Newsweek,2,6.67,"relinequality, implicit",810,1
+809,Shoot-out at tech gap,1987,Oct,Time,4,6.67,"releconomy (employment, economy)",811,1
+810,Shoring up the right,1983,Oct,Newsweek,5,6.67,irrelevant,812,1
+811,Should investors flock to China?,1996,Jun,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),813,1
+812,Showdown Over Spending,2007,Sep,U.S. News & World Report,2,10.0,"relinequality, implicit",814,1
+813,Signs of a summer thaw,1982,Jul,Newsweek,5,6.67,irrelevant,815,1
+814,Sizing Up the Savings Plans,2003,Feb,Newsweek,1,10.0,"relinequality, explicit",816,1
+815,Sleepwalking Toward DD-Day,2007,Oct,Newsweek,2,10.0,"relinequality, implicit",817,1
+816,"Sleepwalking to Sanctions, Again",2007,Oct,Newsweek,5,6.67,irrelevant,818,1
+817,Slim pickings in the rubble,1994,Aug,U.S. News & World Report,5,6.67,irrelevant,819,1
+818,Smoke gets in their eyes,1997,Jun,Time,3,10.0,relchanges (income/wages/earnings/etc.),820,1
+819,So Long to the Wealth Effect?,2005,Oct,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),821,1
+820,So the Rich Get Richer?,2005,May,U.S. News & World Report,1,1.0,"relinequality, explicit",822,1
+821,"So, who lost the surplus?",2001,Sep,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),823,0
+822,Solidarity lends a hand,1981,Aug,Newsweek,5,6.67,irrelevant,824,1
+823,Solidarity runs for cover,1982,Oct,Newsweek,5,6.67,irrelevant,825,1
+824,Sorting the Bad from the Not So Bad,2003,May,Time,5,10.0,irrelevant,826,1
+825,South Africa: Beyond Sanctions,1986,Nov,U.S. News & World Report,5,10.0,irrelevant,827,1
+826,Special Report: After Saddam,2003,Dec,U.S. News & World Report,5,10.0,irrelevant,828,1
+827,Spending for a rainy day,2001,Apr,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),829,1
+828,Spending to Rebuild America,2008,Dec,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),830,1
+829,Splashy support in Damascus.,2011,Nov,Time,5,6.67,irrelevant,831,0
+830,Spoiled Rotten Apple.,2012,Feb,Newsweek,4,6.67,"releconomy (employment, economy)",832,1
+831,Spotlight: California's Budget Crisis,2009,Jul,Time,3,6.67,relchanges (income/wages/earnings/etc.),833,1
+832,Spread the Wealth? What's New?,2008,Nov,Newsweek,1,1.0,"relinequality, explicit",834,1
+833,Spreading Financial Crisis Imperils State Budgets,2008,Oct,U.S. News & World Report,2,6.67,"relinequality, implicit",835,1
+834,Spring fever,1983,Mar,Time,5,6.67,irrelevant,836,0
+835,Squaring off again,1985,Sep,U.S. News & World Report,2,6.67,"relinequality, implicit",837,1
+836,Squeezing American workers,1996,Jan,U.S. News & World Report,1,1.0,"relinequality, explicit",838,1
+837,Stalemate in the streets,1982,Sep,Newsweek,5,6.67,irrelevant,839,1
+838,Stampede of the States to Raise Road Taxes,1983,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),840,1
+839,Standing Pat? Civil war on the right: how Buchanan's challenge could beat Bush,1992,Mar,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),841,1
+840,Standoff at Rzeszow,1981,Feb,Time,5,6.67,irrelevant,842,1
+841,State by State: Where Taxes are steepest,1986,Jan,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),843,1
+842,State of the Union: Reagan at Midterm,1983,Jan,Newsweek,2,10.0,"relinequality, implicit",844,1
+843,Still Blind to the Poverty,2006,Sep,Newsweek,1,6.67,"relinequality, explicit",845,1
+844,Still Looking For Mr. Right,2007,Oct,Time,5,6.67,irrelevant,846,1
+845,Still the American century,1997,Feb,U.S. News & World Report,2,6.67,"relinequality, implicit",847,1
+846,"Stimulating Talk, Redux",2008,Jan,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),848,1
+847,Stimulating Times,2008,Nov,Time,2,6.67,"relinequality, implicit",849,1
+848,Stockman's 100-Day Plan,1980,Dec,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),850,1
+849,Storming the oil platforms,1999,Jan,U.S. News & World Report,5,6.67,irrelevant,851,1
+850,Straight out of the mean streets,1991,Jun,Time,5,6.67,irrelevant,852,1
+851,Struck in the Middle.,2011,,"Time; August 15 2011, Vol. 178 Issue 6, p26-26, 1p",1,1.0,"relinequality, explicit",853,1
+852,Stuck in the Middle.,2011,Oct,Time,5,6.67,irrelevant,854,1
+853,Student Loan Pinch,2006,Feb,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),855,1
+854,Stumping for jobs,2003,Sep,U.S. News & World Report,1,6.67,"relinequality, explicit",856,1
+855,Stupid tax tricks,2001,Jun,Time,1,6.67,"relinequality, explicit",857,1
+856,"Suddenly, troubles in Tokyo",1990,Mar,U.S. News & World Report,5,6.67,irrelevant,858,1
+857,Summer's sizzling boom,1984,Aug,U.S. News & World Report,2,6.67,"relinequality, implicit",859,1
+858,Summertime Blues,2008,Jul,Newsweek,2,6.67,"relinequality, implicit",860,1
+859,Super-Luxe Maternity.,2012,May,Newsweek,5,6.67,irrelevant,861,1
+860,Suppose they sue? Why companies shouldn't fret so much about bias cases,1997,Sep,U.S. News & World Report,5,6.67,irrelevant,862,1
+861,Supreme conservatism,1991,Oct,Newsweek,5,6.67,irrelevant,863,1
+862,Surprise goodies from Uncle Sam,2001,Jun,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),864,1
+863,TANISHA'S TIPS: 10 Smart Financial Tips for Your 20s & 30s.,2012,Aug,Time,4,6.67,"releconomy (employment, economy)",865,1
+864,THE CONSERVATIVE IDENTITY CRISIS,2012,Feb,Time,1,6.67,"relinequality, explicit",866,1
+865,THE GREAT DEFORMER.,2012,Oct,Newsweek,2,6.67,"relinequality, implicit",867,1
+866,THE PHENOM.,2012,Oct,Time,2,6.67,"relinequality, implicit",868,1
+867,THE TRUTH TALKER. (cover story),2012,Jan,Newsweek,4,6.67,"releconomy (employment, economy)",869,1
+868,Tacking further to the right,1987,Mar,Time,5,6.67,irrelevant,870,1
+869,Take Health Reform Into Account,2010,Dec,U.S. News & World Report,2,6.67,"relinequality, implicit",871,1
+870,Take this revolution,1995,Spring,Time,1,6.67,"relinequality, explicit",872,1
+871,Take-home pay,1982,Jun,Time,1,6.67,"relinequality, explicit",873,1
+872,Taking A Look Inside Nike's Factories,1998,Mar,Time,5,10.0,irrelevant,874,1
+873,Taking a right turn,1998,Feb,U.S. News & World Report,5,6.67,irrelevant,875,1
+874,Taking air out of the recovery,1992,Aug,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),876,1
+875,Talking high tech with Weinberger,1983,Oct,Newsweek,5,6.67,irrelevant,877,1
+876,Tax Bill Takes Shape in Congress,1983,Oct,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),878,1
+877,Tax Changes On the Way,1984,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),879,1
+878,Tax Cuts: Reagan Digs In,1981,Jun,Newsweek,1,10.0,"relinequality, explicit",880,1
+879,Tax Dates to Remember,1984,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),881,1
+880,Tax Time.,2012,Mar,Time,4,6.67,"releconomy (employment, economy)",882,1
+881,Tax Tips on Sale of a Home,1980,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),883,1
+882,Tax cheer for the new year,1999,Dec,U.S. News & World Report,5,6.67,irrelevant,884,0
+883,Tax cuts and circuses,1995,Apr,Time,1,6.67,"relinequality, explicit",885,1
+884,Tax news you can't use,1995,Mar,U.S. News & World Report,5,6.67,irrelevant,886,1
+885,Tax reform: still breathing?,1986,May,U.S. News & World Report,5,6.67,irrelevant,887,1
+886,Tax reform: who'd be hurt if it passes,1985,May,U.S. News & World Report,1,6.67,"relinequality, explicit",888,1
+887,Tax tactics that last-minute filers often overlook,2000,Mar,U.S. News & World Report,5,6.67,irrelevant,889,1
+888,Tax tactics to ease the pain,1994,Oct,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),890,1
+889,Tax tips: ways to save on your '84 return,1985,Feb,U.S. News & World Report,5,6.67,irrelevant,891,1
+890,Tax writers weigh odds on reform,1985,Nov,U.S. News & World Report,1,6.67,"relinequality, explicit",892,1
+891,"Tax, Tax; Spend, Spend",1982,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),893,1
+892,Tax-reform bill--and Reagan--on the ropes,1985,Dec,U.S. News & World Report,1,6.67,"relinequality, explicit",894,1
+893,"Taxes 2006: Win Some, Lose Some",2006,Dec,Newsweek,5,6.67,irrelevant,895,1
+894,Taxes as an antidote to addiction,1994,Mar,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),896,1
+895,Test case for labor,1981,Oct,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),897,1
+896,"Thanks a lot, but no thanks",1989,Aug,Time,5,6.67,irrelevant,898,1
+897,"Thanks, Rich People!",2007,Mar,Time,1,1.0,"relinequality, explicit",899,1
+898,That '70s market,2002,Apr,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),900,1
+899,The $3 Trillion Cop-Out,2008,Feb,Newsweek,5,6.67,irrelevant,901,1
+900,The $758 Billion Budget - And Where It All Goes,1982,Feb,U.S. News & World Report,2,10.0,"relinequality, implicit",902,1
+901,The '80s: a final reckoning,1993,Mar,Newsweek,1,6.67,"relinequality, explicit",903,1
+902,The Age of Bloomberg,2008,Oct,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),904,1
+903,The American Dream,1986,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),905,0
+904,The American Dream Goes On,2008,Jun,U.S. News & World Report,1,1.0,"relinequality, explicit",906,1
+905,The Amy and Abbie brigade,1986,Dec,Newsweek,5,6.67,irrelevant,907,1
+906,The Backlash Wars,1996,Apr,Newsweek,5,10.0,irrelevant,908,1
+907,The Battle of the Budget,1980,Jun,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),909,1
+908,The Beijing Blues,2010,Jun,Newsweek,5,6.67,irrelevant,910,1
+909,The Best Job for You,2007,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),911,1
+910,The Best-Laid Plans,1981,Jun,Time,1,10.0,"relinequality, explicit",912,1
+911,The Blinders Of Politics,2003,Jun,Newsweek,1,6.67,"relinequality, explicit",913,1
+912,The Blowback Factor,2005,May,U.S. News & World Report,5,6.67,irrelevant,914,1
+913,The Breedy Bunch,2009,May,Time,3,6.67,relchanges (income/wages/earnings/etc.),915,1
+914,The Budget Bill Goes on Trial,1986,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),916,1
+915,The Budget Grudge Match,1985,Jul,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),917,1
+916,The Budget: Bumps Ahead,1981,Mar,Newsweek,1,10.0,"relinequality, explicit",918,1
+917,The Contemplative Bomb-Thrower,1995,Jan,Newsweek,1,10.0,"relinequality, explicit",919,1
+918,The Deregulation Myth.,2011,Nov,Time,4,6.67,"releconomy (employment, economy)",920,1
+919,The Economic Fallout,1982,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),921,1
+920,The End of Easy Money,2007,Jul,Time,5,6.67,irrelevant,922,1
+921,The End of Upward Mobility?,2009,Jan,Newsweek,1,1.0,"relinequality, explicit",923,1
+922,The End of the Regan Era,2008,Nov,Time,5,6.67,irrelevant,924,1
+923,The Face of Anger.,2011,Oct,Newsweek,1,6.67,"relinequality, explicit",925,1
+924,"The Fall of America, Inc.",2008,Oct,Newsweek,1,6.67,"relinequality, explicit",926,1
+925,The Fate of the Middle Class,2009,Mar,U.S. News & World Report,1,6.67,"relinequality, explicit",927,1
+926,The Formidable Task Ahead,2008,Nov,U.S. News & World Report,5,6.67,irrelevant,928,1
+927,The GOP Ground Game,2009,Apr,Newsweek,4,6.67,"releconomy (employment, economy)",929,1
+928,The GOP Looks West,2010,Jun,Newsweek,4,6.67,"releconomy (employment, economy)",930,1
+929,The GOP contract's fine print,1995,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),931,1
+930,The Great American Internship Swindle.,2011,Nov,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),932,1
+931,The Growing Gap in Retraining,1983,Mar,Time,3,10.0,relchanges (income/wages/earnings/etc.),933,1
+932,The High Stakes of First Jobs,2010,May,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),934,1
+933,The Humpty Dumpty Budget,1985,May,Time,3,10.0,relchanges (income/wages/earnings/etc.),935,1
+934,The Income Gap,2007,Jan,U.S. News & World Report,1,1.0,"relinequality, explicit",936,1
+935,The Inequality Dodge.,2012,,"Newsweek; 2/6/2012, Vol. 159 Issue 6, p25-25, 1p, 1 Color Photograph",1,1.0,"relinequality, explicit",937,1
+936,The Inside Story,1986,Apr,Newsweek,1,10.0,"relinequality, explicit",938,1
+937,The Issues,2009,Dec,Newsweek,4,6.67,"releconomy (employment, economy)",939,1
+938,The Japan that can say yes,2000,Jun,Newsweek,5,6.67,irrelevant,940,1
+939,The Jobs Slog,2010,Oct,Newsweek,2,6.67,"relinequality, implicit",941,1
+940,The Key to Farrakhan's Middle-Class Appeal,1995,Oct,Newsweek,5,10.0,irrelevant,942,1
+941,The Laborer's Lot,2003,Sep,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),943,1
+942,The Last Hurrah,2006,Jan,Newsweek,5,6.67,irrelevant,944,1
+943,The Leasing Life,2007,Apr,Time,3,10.0,relchanges (income/wages/earnings/etc.),945,1
+944,The Legacy of Terri Schiavo,2005,Apr,Newsweek,5,6.67,irrelevant,946,1
+945,"The Lowdown on That Big, Bad Slowdown",2007,Dec,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),947,1
+946,The Man Swinging Reagan's Budget Ax,1981,Feb,U.S. News & World Report,2,10.0,"relinequality, implicit",948,1
+947,The Market's Mixed Message,2007,Nov,U.S. News & World Report,1,6.67,"relinequality, explicit",949,1
+948,The Mike Mulligan moment,1997,May,Time,2,6.67,"relinequality, implicit",950,1
+949,The Millennials,2008,Apr,Time,3,10.0,relchanges (income/wages/earnings/etc.),951,1
+950,The Minigarch Next Door.,2012,Jan,Newsweek,5,6.67,irrelevant,952,1
+951,The Money Man,2008,Oct,Newsweek,1,6.67,"relinequality, explicit",953,1
+952,The New Class Action,2003,Sep,Time,1,6.67,"relinequality, explicit",954,1
+953,The New Culture War over Fairness.,2012,,"Time; 10/22/2012, Vol. 180 Issue 17, p25-25, 1p",2,1.0,"relinequality, implicit",955,1
+954,The New Heroine of the Right,1981,Oct,Newsweek,4,10.0,"releconomy (employment, economy)",956,1
+955,The Next Step? Think Vietnam,2006,Dec,Newsweek,5,10.0,irrelevant,957,1
+956,The Off-Line American,2008,Aug,Time,5,6.67,irrelevant,958,1
+957,The Palin Effect,2008,Oct,Time,1,10.0,"relinequality, explicit",959,1
+958,The Peace Dividend,1998,Jan,Newsweek,4,10.0,"releconomy (employment, economy)",960,1
+959,The Peak of political power,2002,Dec,U.S. News & World Report,5,6.67,irrelevant,961,1
+960,The President's Whiz Kids,2009,Jun,Newsweek,3,1.0,relchanges (income/wages/earnings/etc.),962,1
+961,The Price Of Free Speech,2010,Oct,Time,5,6.67,irrelevant,963,1
+962,The Private Sector Isn't Fine Enough.,2012,Jun,Time,3,6.67,relchanges (income/wages/earnings/etc.),964,1
+963,The Quagmire Of Inequality,2007,Jun,Newsweek,1,1.0,"relinequality, explicit",965,1
+964,The Rage over Goldman Sachs,2009,Aug,Time,1,6.67,"relinequality, explicit",966,1
+965,The Real Kerry,2004,Feb,Newsweek,5,6.67,irrelevant,967,1
+966,The Really Unfair Tax,2003,Feb,Time,1,6.67,"relinequality, explicit",968,1
+967,The Return of the Maverick Candidate,2008,Mar,U.S. News & World Report,5,6.67,irrelevant,969,1
+968,The Right Alms at Texas.,2011,Jun,Newsweek,4,6.67,"releconomy (employment, economy)",970,1
+969,The Savings Trap,1997,Mar,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),971,1
+970,The Selling of the Squeeze,1981,Mar,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),972,1
+971,The Sotomayor Test,2009,Aug,Newsweek,5,6.67,irrelevant,973,1
+972,The Tax Game in Insurance,1986,Nov,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),974,1
+973,The Tax Revolt Loses More Steam,1980,Nov,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),975,1
+974,The Tea Party's Triumph,2011,Aug,Time,1,6.67,"relinequality, explicit",976,1
+975,The Texas two-step,1999,Jul,U.S. News & World Report,5,10.0,irrelevant,977,1
+976,The Third Battlefront: Money,2006,Oct,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",978,1
+977,The Time Is Right for Health Reform,2009,Feb,U.S. News & World Report,1,6.67,"relinequality, explicit",979,1
+978,The Two Knocks on Miers,2005,Oct,Time,5,6.67,irrelevant,980,1
+979,The U'was' last stand,2000,Feb,U.S. News & World Report,5,6.67,irrelevant,981,1
+980,The Unknown Rebel,1998,Mar,Time,5,10.0,irrelevant,982,1
+981,The Unmighty Dollar,2003,Mar,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),983,1
+982,The Upside of Recession?,2007,Apr,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),984,1
+983,The Vital Center,2010,Feb,Time,4,6.67,"releconomy (employment, economy)",985,1
+984,The War for your Wallet,2004,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",986,1
+985,The War on Judges,2005,Apr,Newsweek,5,6.67,irrelevant,987,1
+986,The Widening Income Gap,1981,Oct,Newsweek,1,10.0,"relinequality, explicit",988,1
+987,The World Bails Us Out,2008,Feb,Newsweek,4,6.67,"releconomy (employment, economy)",989,1
+988,The World Is Not Flat,2006,Sep,U.S. News & World Report,1,6.67,"relinequality, explicit",990,1
+989,The absent professors,2002,Sep,U.S. News & World Report,5,6.67,irrelevant,991,1
+990,The bittersweet joys of low inflation,1985,Mar,U.S. News & World Report,1,6.67,"relinequality, explicit",992,1
+991,"The body as temple, the body as prison",1996,Dec,U.S. News & World Report,5,6.67,irrelevant,993,1
+992,The boom generation,2000,Feb,Newsweek,1,6.67,"relinequality, explicit",994,1
+993,The bottom 10,1999,Apr,Time,5,6.67,irrelevant,995,1
+994,The center does not hold,1993,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),996,1
+995,The children's crusade,1996,Jun,Time,1,6.67,"relinequality, explicit",997,1
+996,The color bind,1997,May,Newsweek,5,6.67,irrelevant,998,1
+997,The coming global boom,1990,Jul,U.S. News & World Report,2,6.67,"relinequality, implicit",999,1
+998,The convention has Los Angeles fretting,2000,Jul,U.S. News & World Report,5,6.67,irrelevant,1000,1
+999,The crayon that roared,2001,Jul,Newsweek,5,6.67,irrelevant,1001,1
+1000,The debate misled the public,1993,Aug,Newsweek,1,10.0,"relinequality, explicit",1002,1
+1001,The disinflation blues,1982,Apr,Newsweek,1,6.67,"relinequality, explicit",1003,1
+1002,The economy after a year of recovery,1983,Dec,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",1004,1
+1003,"The face of the Senate is destined for change, and so is Bush's budget",2001,Sep,U.S. News & World Report,2,10.0,"relinequality, implicit",1005,1
+1004,The fierce urgency of Iraq,2003,Oct,U.S. News & World Report,5,10.0,irrelevant,1006,1
+1005,The first cuts are the hardest,1997,Jun,U.S. News & World Report,1,10.0,"relinequality, explicit",1007,1
+1006,The force is still with us,1997,Nov,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1008,1
+1007,The ghost of Herbert Hoover,2000,Oct,Newsweek,1,6.67,"relinequality, explicit",1009,1
+1008,The goal was simple--then Paris quaked,1986,Dec,U.S. News & World Report,5,6.67,irrelevant,1010,1
+1009,The great pay game,1990,Feb,Newsweek,1,1.0,"relinequality, explicit",1011,1
+1010,The grim face of labor,1998,Oct,U.S. News & World Report,5,6.67,irrelevant,1012,0
+1011,The growing perils of plunging profits,2001,Aug,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1013,1
+1012,The gutsiest governor in America,1992,Apr,Time,1,6.67,"relinequality, explicit",1014,1
+1013,The hot markets of Eastern Europe,1994,Jan,U.S. News & World Report,5,10.0,irrelevant,1015,1
+1014,The insurgents,2009,Jun,Newsweek,1,6.67,"relinequality, explicit",1016,1
+1015,The joystick war,2003,May,U.S. News & World Report,5,6.67,irrelevant,1017,1
+1016,The key voting blocs,1988,Aug,U.S. News & World Report,1,6.67,"relinequality, explicit",1018,1
+1017,The making of a miracle,1986,Aug,Time,1,6.67,"relinequality, explicit",1019,1
+1018,The making of old money,1988,Aug,U.S. News & World Report,1,6.67,"relinequality, explicit",1020,1
+1019,The man on the 10-spot turns 200,1989,Sep,U.S. News & World Report,5,6.67,irrelevant,1021,1
+1020,The markets vote,1988,Nov,Time,2,6.67,"relinequality, implicit",1022,1
+1021,The meaning of a scarf: Turkish students fight to wear Islamic head coverings,1998,Mar,U.S. News & World Report,5,6.67,irrelevant,1023,1
+1022,The more and less deserving rich,1994,Apr,Newsweek,1,1.0,"relinequality, explicit",1024,1
+1023,The myth of cyber inequality: computers are not causing growing wage differences,1995,Feb,Newsweek,1,1.0,"relinequality, explicit",1025,1
+1024,The myth of meritocracy,1995,Apr,Newsweek,5,1.0,irrelevant,1026,1
+1025,The nanny nightmare: how to weed out the bad seeds before hiring live-in child care,1991,Dec,U.S. News & World Report,5,6.67,irrelevant,1027,1
+1026,The national health care phobia,1993,Sep,Newsweek,5,6.67,irrelevant,1028,1
+1027,The new 'save our wealth' voters,1992,Jun,U.S. News & World Report,1,6.67,"relinequality, explicit",1029,1
+1028,The new odd couple,2000,Jun,Newsweek,1,6.67,"relinequality, explicit",1030,1
+1029,The new straight talk,1993,Mar,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),1031,1
+1030,The new world of paychecks,1995,Mar,U.S. News & World Report,1,1.0,"relinequality, explicit",1032,1
+1031,The next bite: Paying for health care,1993,Mar,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),1033,1
+1032,The old well runs dry,1999,Mar,Time,1,6.67,"relinequality, explicit",1034,1
+1033,The perils of productivity,2003,Nov,U.S. News & World Report,2,6.67,"relinequality, implicit",1035,1
+1034,The politics of cynicism,2004,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",1036,1
+1035,The poor aren't poorer,1994,Jul,U.S. News & World Report,1,1.0,"relinequality, explicit",1037,1
+1036,The power of freedom in the Philippines,1986,Mar,U.S. News & World Report,5,6.67,irrelevant,1038,1
+1037,The price of the deal,1996,Dec,Newsweek,5,6.67,irrelevant,1039,1
+1038,The professor and the 400-lb. gorilla,1993,Jun,Time,5,6.67,irrelevant,1040,1
+1039,The proliferation shuffle,1993,Nov,U.S. News & World Report,5,6.67,irrelevant,1041,1
+1040,The push for a jobs program,1983,Jan,Newsweek,2,6.67,"relinequality, implicit",1042,1
+1041,The quickest fix of all,1995,Oct,Time,5,6.67,irrelevant,1043,1
+1042,The rediscovery of the U.S. economy,1994,Feb,Newsweek,1,6.67,"relinequality, explicit",1044,1
+1043,The return of the primitive,1996,Jan,Time,5,6.67,irrelevant,1045,1
+1044,The rich get richer,2000,Feb,U.S. News & World Report,1,1.0,"relinequality, explicit",1046,1
+1045,The right makes a small comeback,1982,Feb,Newsweek,5,6.67,irrelevant,1047,1
+1046,The secret computer trade,1997,Nov,Newsweek,5,6.67,irrelevant,1048,1
+1047,The split personality economy,2001,Jul,Newsweek,2,6.67,"relinequality, implicit",1049,1
+1048,The state of the union,1995,Jan,Time,1,6.67,"relinequality, explicit",1050,1
+1049,The tax cut bites the dust . . .,1999,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",1051,1
+1050,The taxman cometh,1996,May,Time,5,6.67,irrelevant,1052,1
+1051,The trophy syndrome,1992,Dec,Newsweek,5,1.0,irrelevant,1053,1
+1052,The uncompetitive society,1988,Apr,U.S. News & World Report,2,6.67,"relinequality, implicit",1054,1
+1053,The woman in the middle,1996,May,Newsweek,5,6.67,irrelevant,1055,1
+1054,The year of earthquakes,1990,Jan,Newsweek,5,6.67,irrelevant,1056,1
+1055,Their Turn to Pay?,1993,Dec,Time,1,10.0,"relinequality, explicit",1057,1
+1056,There's More Than One Way to Diversity,2006,Dec,Time,1,1.0,"relinequality, explicit",1058,1
+1057,They Only Look Dead,2009,May,Time,4,6.67,"releconomy (employment, economy)",1059,1
+1058,Things you wanted to know,1983,Dec,U.S. News & World Report,5,6.67,irrelevant,1060,1
+1059,This Won't Hurt a Bit,2010,Mar,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),1061,1
+1060,This money not only talks; it shouts,1996,Oct,U.S. News & World Report,5,6.67,irrelevant,1062,1
+1061,Those Cuts: How Deep is Deep?,1981,Sep,Time,2,10.0,"relinequality, implicit",1063,1
+1062,Those sky-high health costs,1982,Jul,Time,3,6.67,relchanges (income/wages/earnings/etc.),1064,1
+1063,Thrift Is the New Fashion,2008,Nov,Newsweek,2,6.67,"relinequality, implicit",1065,1
+1064,"Throws Right, Bats Right, OK?",2006,Jan,U.S. News & World Report,5,6.67,irrelevant,1066,1
+1065,Thunder on the right,1986,Sep,Newsweek,5,6.67,irrelevant,1067,1
+1066,Thunder on the right at the White House,1986,Apr,Newsweek,5,6.67,irrelevant,1068,1
+1067,"Tigers in the lab: Asian-born, U.S.-trained researchers are headed home to challenge the technological supremacy of the West",1994,Nov,Time,5,6.67,irrelevant,1069,1
+1068,Time Is Money.,2011,Nov,Time,4,6.67,"releconomy (employment, economy)",1070,0
+1069,Time for a Career Audit,2009,May,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1071,1
+1070,Time to Start Over,2010,Nov,Time,2,6.67,"relinequality, implicit",1072,1
+1071,Time to bet against the buck?,1996,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1073,1
+1072,Tips for a dismal season,1998,Feb,Newsweek,5,6.67,irrelevant,1074,1
+1073,"To Stay Safe, Sell Stocks?",2009,Jul,U.S. News & World Report,2,6.67,"relinequality, implicit",1075,1
+1074,To have and have less,1999,Jul,U.S. News & World Report,1,1.0,"relinequality, explicit",1076,1
+1075,"To the Rich, From America",2008,Jan,Newsweek,1,1.0,"relinequality, explicit",1077,1
+1076,Too Safe A Bet?,2006,Jun,U.S. News & World Report,1,10.0,"relinequality, explicit",1078,1
+1077,Too big to fail is one of the biggest problems we face in this country.,2009,Dec,Time,2,6.67,"relinequality, implicit",1079,1
+1078,Tough economic outlook,1980,Jul,Newsweek,2,6.67,"relinequality, implicit",1080,1
+1079,Tracking a technobandit,1987,Dec,Newsweek,5,6.67,irrelevant,1081,1
+1080,"Trade-offs, trade-offs",1985,Apr,U.S. News & World Report,5,6.67,irrelevant,1082,1
+1081,Trading Places,2003,Jan,U.S. News & World Report,1,6.67,"relinequality, explicit",1083,1
+1082,Trial balloons on tax reform,1995,Jul,U.S. News & World Report,1,6.67,"relinequality, explicit",1084,1
+1083,Trickle-Up Economics,2006,Oct,Newsweek,1,1.0,"relinequality, explicit",1085,1
+1084,Troops or Consequences,2003,Sep,U.S. News & World Report,5,10.0,irrelevant,1086,1
+1085,Trouble at the Tea Party,1980,Dec,Time,3,10.0,relchanges (income/wages/earnings/etc.),1087,1
+1086,Trouble on the right,1986,Dec,U.S. News & World Report,5,6.67,irrelevant,1088,1
+1087,Trying again,1983,Aug,Time,5,6.67,irrelevant,1089,0
+1088,Turkey and Trimmings,1987,Nov,Time,2,10.0,"relinequality, implicit",1090,1
+1089,Turning back the clock,1982,Jan,Time,5,6.67,irrelevant,1091,1
+1090,Turning the tables on the Japanese,1986,Jun,U.S. News & World Report,5,10.0,irrelevant,1092,1
+1091,Two Cheers for the Peacekeepers,2003,Mar,Time,5,6.67,irrelevant,1093,1
+1092,Two strikes against the unions,1984,Sep,Newsweek,5,6.67,irrelevant,1094,1
+1093,Two-tier pay stirs backlash among workers,1985,Sep,U.S. News & World Report,2,1.0,"relinequality, implicit",1095,1
+1094,U.S. Investors' Love Affair With Foreign Stocks,1984,Apr,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1096,1
+1095,U.S. economy in crisis,1981,Jan,Newsweek,2,6.67,"relinequality, implicit",1097,1
+1096,Uncertainty? Don't Be So Sure.,2011,Oct,Time,4,6.67,"releconomy (employment, economy)",1098,1
+1097,Uncle Sam is greedy,1993,Dec,U.S. News & World Report,5,6.67,irrelevant,1099,1
+1098,Unconstitutional,1986,Feb,Time,4,10.0,"releconomy (employment, economy)",1100,1
+1099,Uncooperative patient,1991,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",1101,1
+1100,Unemployment hits 8.9{percent},1982,Jan,Newsweek,2,6.67,"relinequality, implicit",1102,1
+1101,Unemployment hits a high,1982,Apr,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),1103,1
+1102,Unemployment plague,1981,Oct,Time,5,6.67,irrelevant,1104,1
+1103,Unemployment turns the corner,1983,Feb,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",1105,1
+1104,Unemployment: a new plateau,1985,Mar,Newsweek,4,6.67,"releconomy (employment, economy)",1106,1
+1105,Unexpected signs of health,1981,Apr,Time,2,6.67,"relinequality, implicit",1107,1
+1106,Union label is sewed up for Mondale,1983,Aug,U.S. News & World Report,5,6.67,irrelevant,1108,1
+1107,Unions brace for more attacks from Reagan,1984,Nov,U.S. News & World Report,2,6.67,"relinequality, implicit",1109,1
+1108,Unions strike out in Washington,1981,Aug,U.S. News & World Report,1,6.67,"relinequality, explicit",1110,1
+1109,Unions' strategy to bust the Reagan budget,1982,Mar,U.S. News & World Report,1,6.67,"relinequality, explicit",1111,1
+1110,Unwilling Informants?,1989,Jun,Newsweek,5,10.0,irrelevant,1112,1
+1111,Uphill battle,1992,Dec,Newsweek,1,1.0,"relinequality, explicit",1113,1
+1112,Upper East Sliders,2008,Oct,Newsweek,1,6.67,"relinequality, explicit",1114,1
+1113,Upward mobility,1998,Oct,U.S. News & World Report,5,6.67,irrelevant,1115,1
+1114,Using IRA's for Tax-Smart Investing,1985,Jun,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1116,1
+1115,Vanishing surpluses,2001,Sep,U.S. News & World Report,1,6.67,"relinequality, explicit",1117,1
+1116,Voice from the right,1981,Aug,Newsweek,5,6.67,irrelevant,1118,1
+1117,"WELCOME BACK TO THE WHITE HOUSE, MR. PRESIDENT. (cover story)",2012,Oct,Newsweek,2,6.67,"relinequality, implicit",1119,1
+1118,WHY AMERICA MUST REVIVE ITS MIDDLE CLASS.,2011,,"Time; October 10 2011, Vol. 178 Issue 14, p30-32, 3p",1,1.0,"relinequality, explicit",1120,1
+1119,WHY I WENT ON STRIKE.,2012,Dec,Time,3,6.67,relchanges (income/wages/earnings/etc.),1121,1
+1120,Wag the War,2002,Oct,Newsweek,5,6.67,irrelevant,1122,1
+1121,Waiting for Reaganomics,1980,Nov,Time,2,6.67,"relinequality, implicit",1123,1
+1122,Waiting for a shoe to drop,2002,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1124,1
+1123,Waiting for righty,1982,Sep,Newsweek,5,6.67,irrelevant,1125,1
+1124,Waking up in a fool's paradise,1983,Aug,Time,5,6.67,irrelevant,1126,1
+1125,Wal-Mart Nation,2005,Jun,Time,4,10.0,"releconomy (employment, economy)",1127,1
+1126,Wal-Mart's Most Wanted,2005,Jun,U.S. News & World Report,2,10.0,"relinequality, implicit",1128,1
+1127,Walking a fine line on taxes,1997,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",1129,1
+1128,Wall Street's Bet on the Fiscal Cliff.,2012,Dec,Time,2,6.67,"relinequality, implicit",1130,1
+1129,Wall Street's fear of flying,1984,Mar,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),1131,1
+1130,Wallflowers at the dance,1988,Feb,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1132,1
+1131,War of Nerves,2005,Jul,Newsweek,5,10.0,irrelevant,1133,1
+1132,Warning! IRS is getting tougher,1985,Apr,U.S. News & World Report,5,6.67,irrelevant,1134,1
+1133,Warren Buffett Is on a Radical Track. (cover story),2012,,"Time; 1/23/2012, Vol. 179 Issue 3, p32-39, 8p, 12 Color Photographs, 3 Black and White Photographs",1,1.0,"relinequality, explicit",1135,1
+1134,Washington Proves the Communists Right.,2011,Aug,Newsweek,4,6.67,"releconomy (employment, economy)",1136,1
+1135,Washington's Deceptions.,2012,Dec,Newsweek,2,6.67,"relinequality, implicit",1137,1
+1136,Ways to save on your '82 income tax,1983,Feb,U.S. News & World Report,5,6.67,irrelevant,1138,1
+1137,We Are Not in This Together,2009,Apr,Newsweek,1,1.0,"relinequality, explicit",1139,1
+1138,We Are Wary of Utopian Promises. (cover story),2012,Feb,Time,5,6.67,irrelevant,1140,0
+1139,We Ask: When Will The Pain Go Away?,2008,Jun,Newsweek,1,6.67,"relinequality, explicit",1141,1
+1140,We Deserve a Better Bailout,2008,Oct,U.S. News & World Report,1,6.67,"relinequality, explicit",1142,1
+1141,We have reached breakpoint,1987,Jun,Time,3,10.0,relchanges (income/wages/earnings/etc.),1143,1
+1142,We shall win for sure,1982,Dec,Newsweek,5,6.67,irrelevant,1144,1
+1143,We'll hunt you down like a dog',1994,Oct,Newsweek,5,10.0,irrelevant,1145,1
+1144,We're not really Equal,1981,Sep,Newsweek,5,1.0,irrelevant,1146,1
+1145,We've Lost Our Salesman',1981,Apr,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),1147,1
+1146,Welcome to Elsewhere,2009,Jan,Newsweek,1,1.0,"relinequality, explicit",1148,1
+1147,Welfare's scandalous cousin,1995,Feb,U.S. News & World Report,2,10.0,"relinequality, implicit",1149,1
+1148,What About Women?,1995,Mar,Newsweek,5,10.0,irrelevant,1150,1
+1149,What Baby Boomers Make,1985,Nov,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),1151,0
+1150,What Congress heard from back home,1982,Mar,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1152,1
+1151,What Good Can Come From Crisis?,2008,Nov,Newsweek,1,6.67,"relinequality, explicit",1153,1
+1152,What Greenspan doesn't know--,2000,May,Newsweek,2,6.67,"relinequality, implicit",1154,1
+1153,What Inflation Means for . . .,2006,Jul,Time,2,6.67,"relinequality, implicit",1155,1
+1154,What It Means for Your Wallet,2006,Apr,Time,1,6.67,"relinequality, explicit",1156,1
+1155,What Now for U.S. Forces?,2006,Jul,U.S. News & World Report,5,10.0,irrelevant,1157,0
+1156,What Price Preference?,1991,Sep,Time,1,10.0,"relinequality, explicit",1158,1
+1157,What Riles U.S. About Canada,1981,Jul,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",1159,1
+1158,What They Did in the War,1982,May,Newsweek,5,10.0,irrelevant,1160,1
+1159,What Was That About?,2009,Apr,Newsweek,4,6.67,"releconomy (employment, economy)",1161,1
+1160,What Will be the 10 Hottests Jobs?,2000,May,Time,4,10.0,"releconomy (employment, economy)",1162,1
+1161,What Would Lincoln Do?,2009,Feb,Time,2,6.67,"relinequality, implicit",1163,1
+1162,What jobs are worth around the country,1988,Apr,U.S. News & World Report,5,6.67,irrelevant,1164,1
+1163,What should Bill Clinton do first?,1992,Nov,U.S. News & World Report,2,6.67,"relinequality, implicit",1165,1
+1164,What tax cut? Why some of the 'wealthy' have nothing to gain,1997,Aug,Time,1,6.67,"relinequality, explicit",1166,1
+1165,What the fight's about,1995,Dec,Newsweek,1,10.0,"relinequality, explicit",1167,1
+1166,What to remember about 1986,1986,Dec,Newsweek,1,6.67,"relinequality, explicit",1168,1
+1167,What's Really Fair,1990,Nov,Time,1,10.0,"relinequality, explicit",1169,1
+1168,What's a president to do?,1992,Sep,Newsweek,1,6.67,"relinequality, explicit",1170,1
+1169,What's a shopper to do?,2000,Dec,Newsweek,2,6.67,"relinequality, implicit",1171,1
+1170,What's happened to the economy since Reagan took office,1982,Oct,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",1172,1
+1171,What's my worth?,1999,Nov,U.S. News & World Report,5,6.67,irrelevant,1173,1
+1172,"What, Me Worry?",2010,Nov,Newsweek,2,6.67,"relinequality, implicit",1174,1
+1173,Whatever happened to minority students?,1999,Mar,U.S. News & World Report,5,6.67,irrelevant,1175,1
+1174,"Whatever it is, Bill Clinton likely did it",1994,Aug,U.S. News & World Report,5,6.67,irrelevant,1176,1
+1175,When Good News is Bad,1981,May,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),1177,1
+1176,When High Court's quarrels go public,1984,Oct,U.S. News & World Report,5,6.67,irrelevant,1178,1
+1177,"When Times Were Tough, We Went 'Bare'",2003,Jul,Newsweek,1,6.67,"relinequality, explicit",1179,1
+1178,When You Face a Loss Selling Your Home,1985,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1180,1
+1179,When crime panel singes president,1986,Jan,U.S. News & World Report,5,6.67,irrelevant,1181,0
+1180,When dictators shoot back: Gaddafi and Assad are unyielding and murderous. Has the Arab Spring turned into an Arab Hell?,2011,Aug,Newsweek,5,6.67,irrelevant,1182,1
+1181,When jobless pay runs out,1980,Oct,U.S. News & World Report,2,6.67,"relinequality, implicit",1183,1
+1182,When people vote their pocketbooks,1984,Jun,U.S. News & World Report,4,6.67,"releconomy (employment, economy)",1184,0
+1183,When right isn't right,1987,May,Newsweek,5,6.67,irrelevant,1185,1
+1184,When rocket science turns troublesome,1998,Dec,U.S. News & World Report,5,6.67,irrelevant,1186,1
+1185,When the Cheering Stops,2003,Apr,Time,5,10.0,irrelevant,1187,1
+1186,When the Slogging Gets Rough . . .,2006,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1188,1
+1187,When you look beneath good news on prices,1980,Sep,U.S. News & World Report,2,6.67,"relinequality, implicit",1189,1
+1188,Where Budget Cuts Stir Biggest Protest,1981,May,U.S. News & World Report,1,10.0,"relinequality, explicit",1190,1
+1189,Where Did Reform Go?,2009,Dec,Time,2,6.67,"relinequality, implicit",1191,1
+1190,Where Idle Ph.D..'s Get a Helping Hand,1981,Aug,U.S. News & World Report,1,10.0,"relinequality, explicit",1192,1
+1191,Where government workers are allowed to strike,1981,Aug,U.S. News & World Report,5,6.67,irrelevant,1193,0
+1192,Where have the good jobs gone?,1995,Jul,U.S. News & World Report,1,6.67,"relinequality, explicit",1194,1
+1193,Where inflation has taken us,1983,Oct,U.S. News & World Report,5,6.67,irrelevant,1195,1
+1194,Where the 1% Lives.,2012,,"Time; 1/9/2012, Vol. 179 Issue 1, p14-14, 1p, 2 Color Photographs",1,1.0,"relinequality, explicit",1196,1
+1195,Where the Jobs Are,2010,Oct,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),1197,1
+1196,Where the candidates stand,1984,Sep,U.S. News & World Report,5,6.67,irrelevant,1198,1
+1197,Where to Launch a Second Career,2010,Oct,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1199,1
+1198,White House Zips Lip of Its Own Economist,1983,Dec,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1200,1
+1199,White House race: unions out in cold,1980,May,U.S. News & World Report,2,6.67,"relinequality, implicit",1201,1
+1200,Who Controls the Comptroller?,1986,Jun,Time,4,10.0,"releconomy (employment, economy)",1202,1
+1201,Who Deserves the Blame?,1990,Oct,Time,1,10.0,"relinequality, explicit",1203,1
+1202,Who Needs a Fair Deal?,1999,Aug,Newsweek,5,10.0,irrelevant,1204,1
+1203,Who Rules America ? Retired People.,2011,Feb,Newsweek,2,6.67,"relinequality, implicit",1205,1
+1204,Who Tax Cuts Will Help Most,1981,Aug,U.S. News & World Report,2,10.0,"relinequality, implicit",1206,1
+1205,Who controls the purse strings in your house? On the delicate subject of money.,1988,Mar,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1207,1
+1206,Who needs parents?,1998,Aug,Newsweek,5,6.67,irrelevant,1208,1
+1207,Who'd Be Hurt By New Round Of Budget Cuts,1981,Oct,U.S. News & World Report,2,10.0,"relinequality, implicit",1209,1
+1208,Who'll Pay the Piper?,2010,Feb,Newsweek,2,6.67,"relinequality, implicit",1210,1
+1209,Who'll get help from new jobs bill,1983,Apr,U.S. News & World Report,3,6.67,relchanges (income/wages/earnings/etc.),1211,1
+1210,"Who's helped, hurt if youths are paid less",1981,Mar,U.S. News & World Report,1,6.67,"relinequality, explicit",1212,1
+1211,Who's really to blame?,1995,Nov,Time,1,1.0,"relinequality, explicit",1213,1
+1212,Why America is working,1999,Mar,U.S. News & World Report,5,6.67,irrelevant,1214,1
+1213,Why Big Paydays Aren't All Bad,2009,Mar,Newsweek,1,1.0,"relinequality, explicit",1215,1
+1214,Why More May Not Be Enough,2007,Jan,U.S. News & World Report,5,10.0,irrelevant,1216,1
+1215,Why Republicans need a tax cut,1995,Oct,U.S. News & World Report,5,6.67,irrelevant,1217,1
+1216,Why Your Tax Cut Doesn't Add Up,2004,Apr,Newsweek,1,1.0,"relinequality, explicit",1218,1
+1217,Why air controllers want union voice again,1984,Oct,U.S. News & World Report,5,6.67,irrelevant,1219,1
+1218,Why it pays to quit,1999,Nov,U.S. News & World Report v. 127 no. 17 (November 1 1999) p. 74-6+,1,6.67,"relinequality, explicit",1220,1
+1219,Why taxing the rich makes sense,1993,May,U.S. News & World Report,1,6.67,"relinequality, explicit",1221,1
+1220,Why teachers don't teach,1996,Feb,U.S. News & World Report,5,6.67,irrelevant,1222,1
+1221,Will Americans work for $5 a day?,1990,Jul,Time,2,6.67,"relinequality, implicit",1223,1
+1222,Will Democrats dunk the rich?,1990,Jul,Newsweek,1,6.67,"relinequality, explicit",1224,1
+1223,Will success ruin Solidarity's party?,1989,Aug,U.S. News & World Report,5,6.67,irrelevant,1225,1
+1224,Will your money last?,1992,Jun,Newsweek,3,10.0,relchanges (income/wages/earnings/etc.),1226,1
+1225,Winners and bigger winners with a tax cut,2001,Jan,U.S. News & World Report,1,6.67,"relinequality, explicit",1227,1
+1226,Winter of discontent,1996,Jan,U.S. News & World Report,1,1.0,"relinequality, explicit",1228,1
+1227,With Friends Like These,2005,Oct,Newsweek,5,6.67,irrelevant,1229,1
+1228,With Lust ln Our Hearts,2008,Jan,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),1230,1
+1229,With unemployment at a 40-year high--,1982,Aug,U.S. News & World Report,1,6.67,"relinequality, explicit",1231,1
+1230,Wither the Dollar,2004,Dec,Time,3,6.67,relchanges (income/wages/earnings/etc.),1232,1
+1231,Woes are waiting,1980,Dec,U.S. News & World Report,2,6.67,"relinequality, implicit",1233,1
+1232,Woman of the hour,1997,Aug,Newsweek,5,6.67,irrelevant,1234,1
+1233,Wooed by the classroom,1991,Feb,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1235,1
+1234,Workaholics beware: long hours may not pay,1986,Apr,U.S. News & World Report,5,6.67,irrelevant,1236,1
+1235,Working it out,1992,Feb,U.S. News & World Report,5,6.67,irrelevant,1237,1
+1236,Working prisons,1981,Dec,Time,5,6.67,irrelevant,1238,0
+1237,Worksteaders clean up,1984,Jan,Newsweek,2,6.67,"relinequality, implicit",1239,1
+1238,World.,2012,May,Time,5,6.67,irrelevant,1240,1
+1239,Worry time for blacks,1980,Dec,Newsweek,5,6.67,irrelevant,1241,1
+1240,Would States Ambush Budget Amendment,1982,Aug,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1242,0
+1241,Wow! Real reform!,1986,May,Time,2,6.67,"relinequality, implicit",1243,1
+1242,Wowing them in Warsaw,1980,Oct,Time,5,6.67,irrelevant,1244,1
+1243,Wringing out inflation,1982,Mar,Newsweek,3,6.67,relchanges (income/wages/earnings/etc.),1245,1
+1244,Yakuza inc,1998,Apr,U.S. News & World Report,4,10.0,"releconomy (employment, economy)",1246,1
+1245,Year of the spinning dollar,1995,Oct,U.S. News & World Report,3,10.0,relchanges (income/wages/earnings/etc.),1247,1
+1246,"Yes, Wall Street Helps the Poor.",2011,Oct,Newsweek,1,6.67,"relinequality, explicit",1248,1
+1247,"Yes, we have no cruzeiros",1990,Apr,Time,5,6.67,irrelevant,1249,1
+1248,You Call This a Recovery?,2010,Aug,Newsweek,2,6.67,"relinequality, implicit",1250,1
+1249,You Gotta Have Friends,2006,Jul,Time,5,6.67,irrelevant,1251,1
+1250,You get what you pay for,1986,Jul,U.S. News & World Report,5,6.67,irrelevant,1252,1
+1251,You think it's bad here--,1988,Jul,U.S. News & World Report,5,6.67,irrelevant,1253,0
+1252,Your best tax strategy for 1988,1987,Mar,U.S. News & World Report,1,6.67,"relinequality, explicit",1254,1

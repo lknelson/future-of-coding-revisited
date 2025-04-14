@@ -1,0 +1,9 @@
+- Articles that are not focused on the U.S.
+- Articles that discuss racial or gender inequality or gay rights in the U.S.
+- Articles where individuals' names are part of a subject term (e.g., Marc Rich).
+- References to popular culture that include part of a subject term (e.g., a movie named “Big Business”).
+- Personal affairs about a single individual that do not comment on broader conditions.
+- Articles about noneconomic elites (e.g., in art or religion or politics, in which high economic status is neither implicit nor explicit).
+- Social class as a predictor of non-economic phenomenon (e.g., health, education, drug use, social mobility, conspicuous and other kinds of consumption).
+- Stories on famous individuals or criminal cases or cases of corporate or union corruption that are treated as unique situations and do not have any reflection on broader conditions.
+- Articles that mainly discuss policy or political debates and particular politicians, but do not contain qualifying text on relinquality, relchanges, or releconomy.

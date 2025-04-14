@@ -1,0 +1,31 @@
+Here are the bullet points summarizing the guidelines for coding explicit relinequality:
+
+**Explicit Relinequality**
+
+* Must explicitly mention income/wages/compensation/benefits/etc. of different hierarchical groups
+* Must have relational language that one group is benefitting/losing more than another(s)
+* Examples: tax issues, social/government spending that raises the language of winners and losers and deals transparently with income distribution
+
+**Implicit Relinequality**
+
+* Mentions income/wages/compensation/benefits/etc. of different hierarchical groups but lacks explicit relational language
+* No clear connection is made between the groups mentioned
+* Examples:
+	+ Articles mentioning investors doing badly and Americans losing out, but no connection between the two
+	+ Executive compensation and pension benefits declining for workers, but no explicit connection made
+	+ Business profits and tax cuts along with mentions of other groups (e.g. workers)
+	+ Wage bargaining and negotiating where workers and managers/companies are mentioned, but inequality is not explicitly mentioned
+
+**Gray Areas**
+
+* Tax changes that signal regressive or progressive changes, but the nature of the change is not stated directly
+* Examples:
+	+ Tax increase on the rich/wealthy/businesses/corporations or tax decrease on the poor (could be considered explicit or implicit)
+	+ Flat tax (could be considered explicit or implicit)
+
+**Key Principles**
+
+* Do not assume implications of certain types of tax changes for income distribution
+* Do not rely on general context of the article to influence coding
+* Explicit language must be present to justify a code of explicit inequality
+* Direction of inequality may not be clear; it could be increasing, decreasing, or no mention or implication of either.

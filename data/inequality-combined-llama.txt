@@ -1,0 +1,55 @@
+Inequality articles are defined as:
+
+* Mentions of income/earnings/wage/wealth inequality, gaps, differentials, dual society, divides between hierarchical groups
+* Explicit mentions of relational language and direction comparisons between hierarchical class groups, such as:
+	+ Rich/top/wealthy/affluent vs. middle/poor/everyone else
+	+ Wall Street vs. Main Street
+	+ Big business vs. unions/workers
+	+ High skill vs. low skill
+	+ High wage vs. low wage
+	+ High income vs. low income
+* Mentions of government policies or legislation that have direct redistributive consequences, such as:
+	+ Tax cuts or increases for specific groups
+	+ Cuts to social spending programs for bottom-end groups
+	+ Minimum wage laws
+	+ Unemployment benefits
+	+ Food stamps and welfare
+* Articles that discuss the distribution of profits to workers in the form of wages or benefits or other compensation
+* Articles that mention economic/social class groups in a hierarchical relation to each other, including:
+	+ Explicit mentions of inequality, gaps, differentials, dual society, or divides between hierarchically related economic groups
+	+ Mentions of one economic group doing better/worse than another group where the groups are in a hierarchical relation to each other
+	+ Government taxes and/or spending on social programs that are aimed at or targeted to specific economic groups
+	+ Employers, business profits, and/or business taxes along with mentions of other, lower economic/social class groups
+*  Articles that mention pay/income/wealth/etc. regarding the population as a whole or a single broad group, including:
+	+ Mentions of income/wages/earnings/benefits/wealth/etc. for particular economic groups or the population as a whole
+	+ Changes in the pay of economic groups (e.g., rising or falling pay)
+* Articles that mention national employment/job/economic conditions with no mention of inequality or income/wages/earnings/benefits/wealth/etc. for particular economic groups, including:
+	+ General discussions of inflation, interest rates, prices, cost of living, spending, stock market, government deficit, employment/unemployment, recession, expansion, recovery, etc.
+
+**Sub-Categories:**
+	+ Rising: Articles that mention inequality has risen or is rising
+	+ Falling: Articles that mention inequality has fallen or is falling
+	+ Positive: Articles that mention positive changes in inequality
+	+ Negative: Articles that mention negative changes in inequality
+	+ Positive: Articles that mention positive changes in income/wages/earnings/benefits/wealth/etc.
+	+ Negative: Articles that mention negative changes in income/wages/earnings/benefits/wealth/etc.
+	+ Improving: Articles that mention improving economic conditions
+	+ Worsening: Articles that mention worsening economic conditions
+
+**Additional Categories:**
+
+* Articles that predict future changes in inequality or economic conditions
+* Articles that mention the poor or lower economic groups
+* Articles that mention the working class
+* Articles that mention the middle class
+* Articles that mention the rich, affluent, or upper economic groups
+* Articles that mention unskilled workers or lack of educated workforce as a cause of inequality or economic conditions
+* Articles that mention tax policy as a cause of inequality or economic conditions
+* Articles that mention immigration situation/policy as a cause of inequality or economic conditions
+* Articles that mention changes in technology as a cause of inequality or economic conditions
+* Articles that mention trade or outsourcing policy/practice as a cause of inequality or economic conditions
+* Articles that mention minimum wage status or changes as a cause of inequality or economic conditions
+* Articles that mention government regulatory practices of corporations as a cause of inequality or economic conditions
+* Articles that mention corporate, business, or employer practices as a cause of inequality or economic conditions
+
+
