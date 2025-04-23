@@ -30,7 +30,7 @@ Three folders contain the code to reproduce the LLM-generated code for our tests
 
 * `fine-tuning` contains the code to replicate the fine tuning approaches, reported in Appendix F. 
 
-Others folders contain code and are fully replicable:
+Others folders contain code and are fully reproducible:
 
 * `scripts-generate-LLM-definitions` contains the scripts used to generate LLM definitions of inequality, for use in our tests
 
