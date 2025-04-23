@@ -1,8 +1,14 @@
-# future-of-coding-revisited
+# Updating the Future of Coding
 
-Replication repository for the paper "The Future of Coding Revisited"
+In this repository you'll find code to reproduce the analysis and tables in the paper:
 
-In this repository you'll find code to reproduce the analysis and tables in the paper "The Future of Coding Revisited"
+Than, Nga, Leanne Fan, Tina Law, Laura K. Nelson, and Leslie McCall. Forthcoming. "Updating 'The Future of Coding': Qualitative Coding with Generative Large Language Models." _Sociological Methods & Research._
+
+Preprint: https://osf.io/preprints/socarxiv/wg82k_v2
+
+The paper is built on previous work by some of the authors:  
+  
+Nelson, Laura K., Derek Burk, Marcel Knudsen, and Leslie McCall. 2018. "The Future of Coding: A Comparison of Hand-Coding and Three Types of Computer-Assisted Text Analysis Methods." _Sociological Methods & Research_, 50(1): 202-237. https://doi.org/10.1177/0049124118769114 (Original work published 2021)
 
 ## Data:
 - All of the original hand-coding of the news articles, plus the generated LLM codes from all of the tests
