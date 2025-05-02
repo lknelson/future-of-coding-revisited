@@ -29,7 +29,7 @@ Three folders contain the code to reproduce the LLM-generated code for our tests
 
 * `scripts-relevant-zeroshot`
 * `scripts-inequality-zeroshot`
-* `scripts-inequalit-fewshot`
+* `scripts-inequality-fewshot`
 
 * `fine-tuning` contains the code to replicate the fine tuning approaches, reported in Appendix F. 
 
