@@ -12,6 +12,9 @@ The paper is built on previous work by some of the authors:
   
 > Replication repository: https://github.com/lknelson/future-of-coding
 
+In this paper we use multiple large language models (GPT4, Gemma2, Llama3:70b, and Llama3.1:70b) to classify text. We provide scripts for each of these models. We ran the open-source models locally using the `ollama` library in Python.
+
+
 ## Data:
 - All of the original hand-coding of the news articles, plus the generated LLM codes from all of the tests
 - The combined LLM-generated definitions
